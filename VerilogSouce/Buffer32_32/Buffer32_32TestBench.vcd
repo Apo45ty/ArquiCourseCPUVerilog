@@ -1,0 +1,38 @@
+$date
+	Tue Feb 09 11:23:50 2016
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module Buffer32_32TestBench $end
+$var wire 32 ! OUT [31:0] $end
+$var reg 32 " IN [31:0] $end
+$var reg 1 # Sel $end
+$scope module buffer $end
+$var wire 32 $ IN [31:0] $end
+$var wire 1 # Store $end
+$var wire 32 % OUT [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bz %
+b0 $
+0#
+b0 "
+bz !
+$end
+#1
+b0 !
+b0 %
+1#
+#2
+b1 !
+b1 %
+b1 "
+b1 $
+#1500

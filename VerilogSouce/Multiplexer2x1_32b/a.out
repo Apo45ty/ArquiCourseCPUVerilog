@@ -1,0 +1,113 @@
+#! c:/iverilog-x86/bin/vvp
+:ivl_version "10.0 (stable)" "(v10_0)";
+:ivl_delay_selection "TYPICAL";
+:vpi_time_precision + 0;
+:vpi_module "system";
+:vpi_module "vhdl_sys";
+:vpi_module "v2005_math";
+:vpi_module "va_math";
+S_008d4880 .scope module, "MultiplexerTestBench" "MultiplexerTestBench" 2 1;
+ .timescale 0 0;
+P_008d4fb0 .param/l "sim_time" 0 2 3, +C4<0000000000000000000000000000000000000000000000000000010111011100>;
+v008d3800_0 .var "IR_CU", 0 0;
+v008d3858_0 .var "In1", 31 0;
+v008d38b0_0 .var "In2", 31 0;
+v008d3908_0 .net "out", 31 0, L_008d3960;  1 drivers
+S_008d4950 .scope module, "mult" "Multiplexer" 2 10, 3 1 0, S_008d4880;
+ .timescale 0 0;
+    .port_info 0 /INPUT 32 "IN1"
+    .port_info 1 /INPUT 32 "IN2"
+    .port_info 2 /INPUT 1 "IR_CU"
+    .port_info 3 /OUTPUT 32 "OUT"
+v008da158_0 .net "IN1", 31 0, v008d3858_0;  1 drivers
+v008ddd10_0 .net "IN2", 31 0, v008d38b0_0;  1 drivers
+v008ddd68_0 .net "IR_CU", 0 0, v008d3800_0;  1 drivers
+v008dddc0_0 .net "OUT", 31 0, L_008d3960;  alias, 1 drivers
+L_008d3960 .functor MUXZ 32, v008d3858_0, v008d38b0_0, v008d3800_0, C4<>;
+    .scope S_008d4880;
+T_0 ;
+    %delay 1500, 0;
+    %vpi_call 2 5 "$finish" {0 0 0};
+    %end;
+    .thread T_0;
+    .scope S_008d4880;
+T_1 ;
+    %fork t_1, S_008d4880;
+    %fork t_2, S_008d4880;
+    %fork t_3, S_008d4880;
+    %fork t_4, S_008d4880;
+    %fork t_5, S_008d4880;
+    %fork t_6, S_008d4880;
+    %fork t_7, S_008d4880;
+    %fork t_8, S_008d4880;
+    %fork t_9, S_008d4880;
+    %join;
+    %join;
+    %join;
+    %join;
+    %join;
+    %join;
+    %join;
+    %join;
+    %join;
+    %jmp t_0;
+t_1 ;
+    %pushi/vec4 1, 0, 32;
+    %store/vec4 v008d3858_0, 0, 32;
+    %end;
+t_2 ;
+    %pushi/vec4 2, 0, 32;
+    %store/vec4 v008d38b0_0, 0, 32;
+    %end;
+t_3 ;
+    %pushi/vec4 0, 0, 1;
+    %store/vec4 v008d3800_0, 0, 1;
+    %end;
+t_4 ;
+    %delay 1, 0;
+    %pushi/vec4 1, 0, 32;
+    %store/vec4 v008d3858_0, 0, 32;
+    %end;
+t_5 ;
+    %delay 1, 0;
+    %pushi/vec4 2, 0, 32;
+    %store/vec4 v008d38b0_0, 0, 32;
+    %end;
+t_6 ;
+    %delay 1, 0;
+    %pushi/vec4 0, 0, 1;
+    %store/vec4 v008d3800_0, 0, 1;
+    %end;
+t_7 ;
+    %delay 2, 0;
+    %pushi/vec4 1, 0, 32;
+    %store/vec4 v008d3858_0, 0, 32;
+    %end;
+t_8 ;
+    %delay 2, 0;
+    %pushi/vec4 2, 0, 32;
+    %store/vec4 v008d38b0_0, 0, 32;
+    %end;
+t_9 ;
+    %delay 2, 0;
+    %pushi/vec4 1, 0, 1;
+    %store/vec4 v008d3800_0, 0, 1;
+    %end;
+    .scope S_008d4880;
+t_0 ;
+    %end;
+    .thread T_1;
+    .scope S_008d4880;
+T_2 ;
+    %vpi_call 2 19 "$dumpfile", "MultiplexerTestBench.vcd" {0 0 0};
+    %vpi_call 2 20 "$dumpvars", 32'sb00000000000000000000000000000000, S_008d4880 {0 0 0};
+    %vpi_call 2 21 "$display", " Test Results" {0 0 0};
+    %vpi_call 2 22 "$monitor", "Time = %3d,IN1 = %32b,IN2 = %32b, IR_CU = %1b, Out = %32b", $time, v008d3858_0, v008d38b0_0, v008d3800_0, v008d3908_0 {0 0 0};
+    %end;
+    .thread T_2;
+# The file index is used to find the file name in the following table.
+:file_names 4;
+    "N/A";
+    "<interactive>";
+    "MultiplexerTestBench.v";
+    "Multiplexer2x1_32b.v";

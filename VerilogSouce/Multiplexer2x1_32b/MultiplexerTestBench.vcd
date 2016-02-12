@@ -1,0 +1,37 @@
+$date
+	Mon Feb 08 20:48:49 2016
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module MultiplexerTestBench $end
+$var wire 32 ! out [31:0] $end
+$var reg 1 " IR_CU $end
+$var reg 32 # In1 [31:0] $end
+$var reg 32 $ In2 [31:0] $end
+$scope module mult $end
+$var wire 32 % IN1 [31:0] $end
+$var wire 32 & IN2 [31:0] $end
+$var wire 1 " IR_CU $end
+$var wire 32 ' OUT [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1 '
+b10 &
+b1 %
+b10 $
+b1 #
+0"
+b1 !
+$end
+#2
+b10 !
+b10 '
+1"
+#1500
