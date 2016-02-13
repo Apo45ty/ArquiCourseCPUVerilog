@@ -1,6 +1,8 @@
 (Done) 1) remover store a~adir una se~al de Rs
 (Done) 2) Implementar en verilog con trystate 
 (Done) 3) crear test cases Multiplexers, Decoders, Registers(solo) and Register (16 at a time) 
-4) crear test cases Register File que incluyan test de interconnecines entre el input y output. 
-5) probar connectar el ALU
-6) enviar print out al professor
+(Done) 4) crear test cases Register File que incluyan test de interconnecines entre el input y output. 
+(Done) 5) probar connectar el ALU
+6) Probar ALU y reg file con transmision de datos atraves del ALU, Operaciones Atravez del ALU 
+) Dise~ar memoria
+) enviar print out al professor

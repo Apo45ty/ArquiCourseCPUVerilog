@@ -1,0 +1,47 @@
+$date
+	Sat Feb 13 15:24:15 2016
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module ClockCycleGraph_ALU_REG_OP $end
+$var reg 32 ! A [31:0] $end
+$var reg 32 " B [31:0] $end
+$var reg 32 # C [31:0] $end
+$var reg 1 $ Clk $end
+$var reg 32 % Out [31:0] $end
+$var reg 1 & alu_out $end
+$var reg 1 ' ir_cu $end
+$var reg 1 ( load $end
+$var reg 5 ) opcode [4:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx )
+x(
+x'
+x&
+bx %
+1$
+bx #
+bx "
+bx !
+$end
+#10
+1(
+1&
+1'
+b100 )
+#15
+b101 !
+b101 "
+b101 #
+#20
+b1010 %
+#50
+0$
+#100
