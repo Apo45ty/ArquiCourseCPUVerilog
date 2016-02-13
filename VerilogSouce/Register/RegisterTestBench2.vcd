@@ -1,5 +1,5 @@
 $date
-	Mon Feb 08 20:19:37 2016
+	Sat Feb 13 16:05:51 2016
 $end
 $version
 	Icarus Verilog
@@ -18,8 +18,8 @@ $scope module test_reg $end
 $var wire 1 ! Clk $end
 $var wire 32 & IN [31:0] $end
 $var wire 1 ' Load $end
-$var wire 1 $ Reset $end
 $var wire 32 ( OUT [31:0] $end
+$var wire 1 $ Reset $end
 $var reg 32 ) d [31:0] $end
 $upscope $end
 $upscope $end
@@ -28,8 +28,8 @@ $scope module test_reg $end
 $var wire 1 ! Clk $end
 $var wire 32 * IN [31:0] $end
 $var wire 1 + Load $end
-$var wire 1 $ Reset $end
 $var wire 32 , OUT [31:0] $end
+$var wire 1 $ Reset $end
 $var reg 32 - d [31:0] $end
 $upscope $end
 $upscope $end
@@ -38,8 +38,8 @@ $scope module test_reg $end
 $var wire 1 ! Clk $end
 $var wire 32 . IN [31:0] $end
 $var wire 1 / Load $end
-$var wire 1 $ Reset $end
 $var wire 32 0 OUT [31:0] $end
+$var wire 1 $ Reset $end
 $var reg 32 1 d [31:0] $end
 $upscope $end
 $upscope $end
@@ -48,8 +48,8 @@ $scope module test_reg $end
 $var wire 1 ! Clk $end
 $var wire 32 2 IN [31:0] $end
 $var wire 1 3 Load $end
-$var wire 1 $ Reset $end
 $var wire 32 4 OUT [31:0] $end
+$var wire 1 $ Reset $end
 $var reg 32 5 d [31:0] $end
 $upscope $end
 $upscope $end
@@ -58,8 +58,8 @@ $scope module test_reg $end
 $var wire 1 ! Clk $end
 $var wire 32 6 IN [31:0] $end
 $var wire 1 7 Load $end
-$var wire 1 $ Reset $end
 $var wire 32 8 OUT [31:0] $end
+$var wire 1 $ Reset $end
 $var reg 32 9 d [31:0] $end
 $upscope $end
 $upscope $end
@@ -68,8 +68,8 @@ $scope module test_reg $end
 $var wire 1 ! Clk $end
 $var wire 32 : IN [31:0] $end
 $var wire 1 ; Load $end
-$var wire 1 $ Reset $end
 $var wire 32 < OUT [31:0] $end
+$var wire 1 $ Reset $end
 $var reg 32 = d [31:0] $end
 $upscope $end
 $upscope $end
@@ -78,8 +78,8 @@ $scope module test_reg $end
 $var wire 1 ! Clk $end
 $var wire 32 > IN [31:0] $end
 $var wire 1 ? Load $end
-$var wire 1 $ Reset $end
 $var wire 32 @ OUT [31:0] $end
+$var wire 1 $ Reset $end
 $var reg 32 A d [31:0] $end
 $upscope $end
 $upscope $end
@@ -88,8 +88,8 @@ $scope module test_reg $end
 $var wire 1 ! Clk $end
 $var wire 32 B IN [31:0] $end
 $var wire 1 C Load $end
-$var wire 1 $ Reset $end
 $var wire 32 D OUT [31:0] $end
+$var wire 1 $ Reset $end
 $var reg 32 E d [31:0] $end
 $upscope $end
 $upscope $end
@@ -98,8 +98,8 @@ $scope module test_reg $end
 $var wire 1 ! Clk $end
 $var wire 32 F IN [31:0] $end
 $var wire 1 G Load $end
-$var wire 1 $ Reset $end
 $var wire 32 H OUT [31:0] $end
+$var wire 1 $ Reset $end
 $var reg 32 I d [31:0] $end
 $upscope $end
 $upscope $end
@@ -108,8 +108,8 @@ $scope module test_reg $end
 $var wire 1 ! Clk $end
 $var wire 32 J IN [31:0] $end
 $var wire 1 K Load $end
-$var wire 1 $ Reset $end
 $var wire 32 L OUT [31:0] $end
+$var wire 1 $ Reset $end
 $var reg 32 M d [31:0] $end
 $upscope $end
 $upscope $end
@@ -118,8 +118,8 @@ $scope module test_reg $end
 $var wire 1 ! Clk $end
 $var wire 32 N IN [31:0] $end
 $var wire 1 O Load $end
-$var wire 1 $ Reset $end
 $var wire 32 P OUT [31:0] $end
+$var wire 1 $ Reset $end
 $var reg 32 Q d [31:0] $end
 $upscope $end
 $upscope $end
@@ -128,8 +128,8 @@ $scope module test_reg $end
 $var wire 1 ! Clk $end
 $var wire 32 R IN [31:0] $end
 $var wire 1 S Load $end
-$var wire 1 $ Reset $end
 $var wire 32 T OUT [31:0] $end
+$var wire 1 $ Reset $end
 $var reg 32 U d [31:0] $end
 $upscope $end
 $upscope $end
@@ -138,8 +138,8 @@ $scope module test_reg $end
 $var wire 1 ! Clk $end
 $var wire 32 V IN [31:0] $end
 $var wire 1 W Load $end
-$var wire 1 $ Reset $end
 $var wire 32 X OUT [31:0] $end
+$var wire 1 $ Reset $end
 $var reg 32 Y d [31:0] $end
 $upscope $end
 $upscope $end
@@ -148,8 +148,8 @@ $scope module test_reg $end
 $var wire 1 ! Clk $end
 $var wire 32 Z IN [31:0] $end
 $var wire 1 [ Load $end
-$var wire 1 $ Reset $end
 $var wire 32 \ OUT [31:0] $end
+$var wire 1 $ Reset $end
 $var reg 32 ] d [31:0] $end
 $upscope $end
 $upscope $end
@@ -158,8 +158,8 @@ $scope module test_reg $end
 $var wire 1 ! Clk $end
 $var wire 32 ^ IN [31:0] $end
 $var wire 1 _ Load $end
-$var wire 1 $ Reset $end
 $var wire 32 ` OUT [31:0] $end
+$var wire 1 $ Reset $end
 $var reg 32 a d [31:0] $end
 $upscope $end
 $upscope $end
@@ -168,8 +168,8 @@ $scope module test_reg $end
 $var wire 1 ! Clk $end
 $var wire 32 b IN [31:0] $end
 $var wire 1 c Load $end
-$var wire 1 $ Reset $end
 $var wire 32 d OUT [31:0] $end
+$var wire 1 $ Reset $end
 $var reg 32 e d [31:0] $end
 $upscope $end
 $upscope $end
@@ -272,14 +272,21 @@ b1 #
 #2
 b1 (
 b1 )
-0'
 0!
+#3
+0'
+1!
 b0 #
 b10000 %
-#3
+#4
+b1 ,
+b1 -
 1+
-1!
+0!
 b10 #
+#5
+0+
+1!
 b10 "
 b10 &
 b10 *
@@ -297,16 +304,13 @@ b10 V
 b10 Z
 b10 ^
 b10 b
-#4
-b10 ,
-b10 -
-0+
-0!
 b0 #
 b10000 %
-#5
+#6
+b11 0
+b11 1
 1/
-1!
+0!
 b100 #
 b11 "
 b11 &
@@ -325,16 +329,16 @@ b11 V
 b11 Z
 b11 ^
 b11 b
-#6
-b11 0
-b11 1
+#7
 0/
-0!
+1!
 b0 #
 b10000 %
-#7
+#8
+b100 4
+b100 5
 13
-1!
+0!
 b1000 #
 b100 "
 b100 &
@@ -353,16 +357,16 @@ b100 V
 b100 Z
 b100 ^
 b100 b
-#8
-b100 4
-b100 5
+#9
 03
-0!
+1!
 b0 #
 b10000 %
-#9
+#10
+b101 8
+b101 9
 17
-1!
+0!
 b10000 #
 b101 "
 b101 &
@@ -381,16 +385,16 @@ b101 V
 b101 Z
 b101 ^
 b101 b
-#10
-b101 8
-b101 9
+#11
 07
-0!
+1!
 b0 #
 b10000 %
-#11
+#12
+b110 <
+b110 =
 1;
-1!
+0!
 b100000 #
 b110 "
 b110 &
@@ -409,16 +413,16 @@ b110 V
 b110 Z
 b110 ^
 b110 b
-#12
-b110 <
-b110 =
+#13
 0;
-0!
+1!
 b0 #
 b10000 %
-#13
+#14
+b111 @
+b111 A
 1?
-1!
+0!
 b1000000 #
 b111 "
 b111 &
@@ -437,16 +441,16 @@ b111 V
 b111 Z
 b111 ^
 b111 b
-#14
-b111 @
-b111 A
+#15
 0?
-0!
+1!
 b0 #
 b10000 %
-#15
+#16
+b1000 D
+b1000 E
 1C
-1!
+0!
 b10000000 #
 b1000 "
 b1000 &
@@ -465,16 +469,16 @@ b1000 V
 b1000 Z
 b1000 ^
 b1000 b
-#16
-b1000 D
-b1000 E
+#17
 0C
-0!
+1!
 b0 #
 b10000 %
-#17
+#18
+b1001 H
+b1001 I
 1G
-1!
+0!
 b100000000 #
 b1001 "
 b1001 &
@@ -493,16 +497,16 @@ b1001 V
 b1001 Z
 b1001 ^
 b1001 b
-#18
-b1001 H
-b1001 I
+#19
 0G
-0!
+1!
 b0 #
 b10000 %
-#19
+#20
+b1010 L
+b1010 M
 1K
-1!
+0!
 b1000000000 #
 b1010 "
 b1010 &
@@ -521,16 +525,16 @@ b1010 V
 b1010 Z
 b1010 ^
 b1010 b
-#20
-b1010 L
-b1010 M
+#21
 0K
-0!
+1!
 b0 #
 b10000 %
-#21
+#22
+b1011 P
+b1011 Q
 1O
-1!
+0!
 b10000000000 #
 b1011 "
 b1011 &
@@ -549,16 +553,16 @@ b1011 V
 b1011 Z
 b1011 ^
 b1011 b
-#22
-b1011 P
-b1011 Q
+#23
 0O
-0!
+1!
 b0 #
 b10000 %
-#23
+#24
+b1100 T
+b1100 U
 1S
-1!
+0!
 b100000000000 #
 b1100 "
 b1100 &
@@ -577,16 +581,16 @@ b1100 V
 b1100 Z
 b1100 ^
 b1100 b
-#24
-b1100 T
-b1100 U
+#25
 0S
-0!
+1!
 b0 #
 b10000 %
-#25
+#26
+b1101 X
+b1101 Y
 1W
-1!
+0!
 b1000000000000 #
 b1101 "
 b1101 &
@@ -605,16 +609,16 @@ b1101 V
 b1101 Z
 b1101 ^
 b1101 b
-#26
-b1101 X
-b1101 Y
+#27
 0W
-0!
+1!
 b0 #
 b10000 %
-#27
+#28
+b1110 \
+b1110 ]
 1[
-1!
+0!
 b10000000000000 #
 b1110 "
 b1110 &
@@ -633,16 +637,16 @@ b1110 V
 b1110 Z
 b1110 ^
 b1110 b
-#28
-b1110 \
-b1110 ]
+#29
 0[
-0!
+1!
 b0 #
 b10000 %
-#29
+#30
+b1111 `
+b1111 a
 1_
-1!
+0!
 b100000000000000 #
 b1111 "
 b1111 &
@@ -661,16 +665,16 @@ b1111 V
 b1111 Z
 b1111 ^
 b1111 b
-#30
-b1111 `
-b1111 a
+#31
 0_
-0!
+1!
 b0 #
 b10000 %
-#31
+#32
+b10000 d
+b10000 e
 1c
-1!
+0!
 b1000000000000000 #
 b10000 "
 b10000 &
@@ -689,10 +693,6 @@ b10000 V
 b10000 Z
 b10000 ^
 b10000 b
-#32
-b10000 d
-b10000 e
-0!
 #33
 1!
 #34

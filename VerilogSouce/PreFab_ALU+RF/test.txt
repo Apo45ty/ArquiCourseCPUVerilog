@@ -1,6 +1,9 @@
 VCD info: dumpfile prefab_alu_rf.vcd opened for output.
  Test Results
-time =   0 ,Pcin =   z , in =   x , LOADPC =   0 , LOAD =   0 , IR_CU =   1 , RSLCT = 00000, Rn =   x ,Rm =   x ,Rs =   x ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+time =   0 ,Pcin =   z , in =   1 , LOADPC =   0 , LOAD =   0 , IR_CU =   1 , RSLCT = 00000, Rn =   0 ,Rm =   0 ,Rs =   0 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
 time =   1 ,Pcin =   z , in =   1 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =   0 ,Rm =   0 ,Rs =   0 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
 time =   2 ,Pcin =   z , in =   2 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =   1 ,Rm =   1 ,Rs =   1 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
-time =   3 ,Pcin =   z , in =   3 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 01000, Rn =   2 ,Rm =   2 ,Rs =   2 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+time =   3 ,Pcin =   z , in =   2 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 01000, Rn =   1 ,Rm =   1 ,Rs =   1 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+time =   4 ,Pcin =   z , in =   2 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 01000, Rn =   1 ,Rm =   1 ,Rs =   1 ,PCout =   z,OP=  4;FLAGS=0; S=0000;ALU_OUT=1;1
+time =   5 ,Pcin =   z , in =   2 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 02000, Rn =   1 ,Rm =   1 ,Rs =   1 ,PCout =   z,OP=  4;FLAGS=0; S=0000;ALU_OUT=1;1
+time =   6 ,Pcin =   z , in =   3 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 02001, Rn =   2 ,Rm =   1 ,Rs =   1 ,PCout =   z,OP=  4;FLAGS=0; S=0000;ALU_OUT=1;1

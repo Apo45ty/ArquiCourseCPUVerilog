@@ -33,110 +33,110 @@ initial fork
 	#1 Reset=0;
 	#1 Load[0]=1; // always load on tick after for loop
 	//#2 Clk = 0 Cycle 2
-	#2 for(j=0;j<=15;j=j+1)
+	#3 for(j=0;j<=15;j=j+1)
 	begin
 		Load[j]=0;
 	end
-	#3 Load[1]=1;
-	#3 In=2;
-	#4 //Clk =0 Cycle 3
+	#4 Load[1]=1;
+	#5 In=2;
+	#5 //Clk =0 Cycle 3
 	for(j=0;j<=15;j=j+1)
 	begin
 		Load[j]=0;
 	end
-	#5 Load[2]=1;
-	#5 In=3;
-	#6 //Clk =0 Cycle 4
+	#6 Load[2]=1;
+	#6 In=3;
+	#7 //Clk =0 Cycle 4
 	for(j=0;j<=15;j=j+1)
 	begin
 		Load[j]=0;
 	end
-	#7 Load[3]=1;
-	#7 In=4;
-	#8 //Clk =0 Cycle 5
+	#8 Load[3]=1;
+	#8 In=4;
+	#9 //Clk =0 Cycle 5
 	for(j=0;j<=15;j=j+1)
 	begin
 		Load[j]=0;
 	end
-	#9 Load[4]=1;
-	#9 In=5;
-	#10 //Clk = 0 Cycle 6
+	#10 Load[4]=1;
+	#10 In=5;
+	#11 //Clk = 0 Cycle 6
 	for(j=0;j<=15;j=j+1)
 	begin
 		Load[j]=0;
 	end
-	#11 Load[5]=1;
-	#11 In=6;
-	#12 //Clk = 0 Cycle 7
+	#12 Load[5]=1;
+	#12 In=6;
+	#13 //Clk = 0 Cycle 7
 	for(j=0;j<=15;j=j+1)
 	begin
 		Load[j]=0;
 	end
-	#13 Load[6]=1;
-	#13 In=7;
-	#14 //Clk = 0 Cycle 8
+	#14 Load[6]=1;
+	#14 In=7;
+	#15 //Clk = 0 Cycle 8
 	for(j=0;j<=15;j=j+1)
 	begin
 		Load[j]=0;
 	end
-	#15 Load[7]=1;
-	#15 In=8;
-	#16 //Clk = 0 Cycle 9
+	#16 Load[7]=1;
+	#16 In=8;
+	#17 //Clk = 0 Cycle 9
 	for(j=0;j<=15;j=j+1)
 	begin
 		Load[j]=0;
 	end
-	#17 Load[8]=1;
-	#17 In=9;
-	#18 //Clk = 0 Cycle 10
+	#18 Load[8]=1;
+	#18 In=9;
+	#19 //Clk = 0 Cycle 10
 	for(j=0;j<=15;j=j+1)
 	begin
 		Load[j]=0;
 	end
-	#19 Load[9]=1;
-	#19 In=10;
-	#20 //Clk = 0 Cycle 11
+	#20 Load[9]=1;
+	#20 In=10;
+	#21 //Clk = 0 Cycle 11
 	for(j=0;j<=15;j=j+1)
 	begin
 		Load[j]=0;
 	end
-	#21 Load[10]=1;
-	#21 In=11;
-	#22 //Clk = 0 Cycle 12
+	#22 Load[10]=1;
+	#22 In=11;
+	#23 //Clk = 0 Cycle 12
 	for(j=0;j<=15;j=j+1)
 	begin
 		Load[j]=0;
 	end
-	#23 Load[11]=1;
-	#23 In=12;
-	#24 //Clk = 0 Cycle 13
+	#24 Load[11]=1;
+	#24 In=12;
+	#25 //Clk = 0 Cycle 13
 	for(j=0;j<=15;j=j+1)
 	begin
 		Load[j]=0;
 	end
-	#25 Load[12]=1;
-	#25 In=13;
-	#26 //Clk = 0 Cycle 13
+	#26 Load[12]=1;
+	#26 In=13;
+	#27 //Clk = 0 Cycle 13
 	for(j=0;j<=15;j=j+1)
 	begin
 		Load[j]=0;
 	end
-	#27 Load[13]=1;
-	#27 In=14;
-	#28 //Clk = 0 Cycle 14
+	#28 Load[13]=1;
+	#28 In=14;
+	#29 //Clk = 0 Cycle 14
 	for(j=0;j<=15;j=j+1)
 	begin
 		Load[j]=0;
 	end
-	#29 Load[14]=1;
-	#29 In=15;
-	#30 //Clk = 0 Cycle 15
+	#30 Load[14]=1;
+	#30 In=15;
+	#31 //Clk = 0 Cycle 15
 	for(j=0;j<=15;j=j+1)
 	begin
 		Load[j]=0;
 	end
-	#31 Load[15]=1;
-	#31 In=16;
+	#32 Load[15]=1;
+	#32 In=16;
 join
 
 always 

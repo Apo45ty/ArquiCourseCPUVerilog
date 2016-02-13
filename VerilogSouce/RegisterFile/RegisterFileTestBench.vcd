@@ -1,5 +1,5 @@
 $date
-	Thu Feb 11 13:35:49 2016
+	Sat Feb 13 16:08:44 2016
 $end
 $version
 	Icarus Verilog
@@ -580,223 +580,223 @@ b0 P#
 b10000 O#
 b1 N#
 b0 M#
-bz L#
-bz K#
+b0 L#
+b0 K#
 0J#
 bz I#
-bz H#
-bz G#
+b0 H#
+b0 G#
 0F#
 bz E#
-bz D#
-bz C#
+b0 D#
+b0 C#
 0B#
 bz A#
-bz @#
-bz ?#
+b0 @#
+b0 ?#
 0>#
 bz =#
-bz <#
-bz ;#
+b0 <#
+b0 ;#
 0:#
 bz 9#
-bz 8#
-bz 7#
+b0 8#
+b0 7#
 06#
 bz 5#
-bz 4#
-bz 3#
+b0 4#
+b0 3#
 02#
 bz 1#
-bz 0#
-bz /#
+b0 0#
+b0 /#
 0.#
 bz -#
-bz ,#
-bz +#
+b0 ,#
+b0 +#
 0*#
 bz )#
-bz (#
-bz '#
+b0 (#
+b0 '#
 0&#
 bz %#
-bz $#
-bz ##
+b0 $#
+b0 ##
 0"#
 bz !#
-bz ~"
-bz }"
+b0 ~"
+b0 }"
 0|"
 bz {"
-bz z"
-bz y"
+b0 z"
+b0 y"
 0x"
 bz w"
-bz v"
-bz u"
+b0 v"
+b0 u"
 0t"
 bz s"
-bz r"
-bz q"
+b0 r"
+b0 q"
 0p"
 bz o"
-bz n"
-bz m"
+b0 n"
+b0 m"
 0l"
 bz k"
-bz j"
+b0 j"
 0i"
-bz h"
-bz g"
+b0 h"
+b0 g"
 0f"
-bz e"
-bz d"
+b0 e"
+b0 d"
 0c"
-bz b"
-bz a"
+b0 b"
+b0 a"
 0`"
-bz _"
-bz ^"
+b0 _"
+b0 ^"
 0]"
-bz \"
-bz ["
+b0 \"
+b0 ["
 0Z"
-bz Y"
-bz X"
+b0 Y"
+b0 X"
 0W"
-bz V"
-bz U"
+b0 V"
+b0 U"
 0T"
-bz S"
-bz R"
+b0 S"
+b0 R"
 0Q"
-bz P"
-bz O"
+b0 P"
+b0 O"
 0N"
-bz M"
-bz L"
+b0 M"
+b0 L"
 0K"
-bz J"
-bz I"
+b0 J"
+b0 I"
 0H"
-bz G"
-bz F"
+b0 G"
+b0 F"
 0E"
-bz D"
-bz C"
+b0 D"
+b0 C"
 0B"
-bz A"
-bz @"
+b0 A"
+b0 @"
 0?"
-bz >"
-bz ="
+b0 >"
+b0 ="
 1<"
-bz ;"
-bz :"
+b0 ;"
+b0 :"
 09"
-bz 8"
-bz 7"
+b0 8"
+b0 7"
 06"
-bz 5"
-bz 4"
+b0 5"
+b0 4"
 03"
-bz 2"
-bz 1"
+b0 2"
+b0 1"
 00"
-bz /"
-bz ."
+b0 /"
+b0 ."
 0-"
-bz ,"
-bz +"
+b0 ,"
+b0 +"
 0*"
-bz )"
-bz ("
+b0 )"
+b0 ("
 0'"
-bz &"
-bz %"
+b0 &"
+b0 %"
 0$"
-bz #"
-bz ""
+b0 #"
+b0 ""
 0!"
-bz ~
-bz }
+b0 ~
+b0 }
 0|
-bz {
-bz z
+b0 {
+b0 z
 0y
-bz x
-bz w
+b0 x
+b0 w
 0v
-bz u
-bz t
+b0 u
+b0 t
 0s
-bz r
-bz q
+b0 r
+b0 q
 0p
-bz o
-bz n
+b0 o
+b0 n
 0m
-bz l
-bz k
+b0 l
+b0 k
 1j
-bz i
-bz h
+b0 i
+b0 h
 0g
-bz f
-bz e
+b0 f
+b0 e
 0d
-bz c
-bz b
+b0 c
+b0 b
 0a
-bz `
-bz _
+b0 `
+b0 _
 0^
-bz ]
-bz \
+b0 ]
+b0 \
 0[
-bz Z
-bz Y
+b0 Z
+b0 Y
 0X
-bz W
-bz V
+b0 W
+b0 V
 0U
-bz T
-bz S
+b0 T
+b0 S
 0R
-bz Q
-bz P
+b0 Q
+b0 P
 0O
-bz N
-bz M
+b0 N
+b0 M
 0L
-bz K
-bz J
+b0 K
+b0 J
 0I
-bz H
-bz G
+b0 H
+b0 G
 0F
-bz E
-bz D
+b0 E
+b0 D
 0C
-bz B
-bz A
+b0 B
+b0 A
 0@
-bz ?
-bz >
+b0 ?
+b0 >
 0=
-bz <
-bz ;
+b0 <
+b0 ;
 1:
-bz 9
+b0 9
 b1 8
 b1 7
 b1 6
 b1 5
 b0 4
 bz 3
-bz 2
-bz 1
-bz 0
+b0 2
+b0 1
+b0 0
 b0 /
 bz .
 bz -
@@ -808,146 +808,12 @@ bz )
 0'
 1&
 0%
-bz $
-bz #
-bz "
+b0 $
+b0 #
+b0 "
 bz !
 $end
 #1
-b0 $
-b0 2
-b0 ;"
-b0 >"
-b0 A"
-b0 D"
-b0 G"
-b0 J"
-b0 M"
-b0 P"
-b0 S"
-b0 V"
-b0 Y"
-b0 \"
-b0 _"
-b0 b"
-b0 e"
-b0 h"
-b0 "
-b0 0
-b0 i
-b0 l
-b0 o
-b0 r
-b0 u
-b0 x
-b0 {
-b0 ~
-b0 #"
-b0 &"
-b0 )"
-b0 ,"
-b0 /"
-b0 2"
-b0 5"
-b0 8"
-b0 #
-b0 1
-b0 9
-b0 <
-b0 ?
-b0 B
-b0 E
-b0 H
-b0 K
-b0 N
-b0 Q
-b0 T
-b0 W
-b0 Z
-b0 ]
-b0 `
-b0 c
-b0 f
-b0 ;
-b0 k
-b0 ="
-b0 m"
-b0 n"
-b0 >
-b0 n
-b0 @"
-b0 q"
-b0 r"
-b0 A
-b0 q
-b0 C"
-b0 u"
-b0 v"
-b0 D
-b0 t
-b0 F"
-b0 y"
-b0 z"
-b0 G
-b0 w
-b0 I"
-b0 }"
-b0 ~"
-b0 J
-b0 z
-b0 L"
-b0 ##
-b0 $#
-b0 M
-b0 }
-b0 O"
-b0 '#
-b0 (#
-b0 P
-b0 ""
-b0 R"
-b0 +#
-b0 ,#
-b0 S
-b0 %"
-b0 U"
-b0 /#
-b0 0#
-b0 V
-b0 ("
-b0 X"
-b0 3#
-b0 4#
-b0 Y
-b0 +"
-b0 ["
-b0 7#
-b0 8#
-b0 \
-b0 ."
-b0 ^"
-b0 ;#
-b0 <#
-b0 _
-b0 1"
-b0 a"
-b0 ?#
-b0 @#
-b0 b
-b0 4"
-b0 d"
-b0 C#
-b0 D#
-b0 e
-b0 7"
-b0 g"
-b0 G#
-b0 H#
-b0 h
-b0 :"
-b0 j"
-b0 K#
-b0 L#
 1l"
 1%
 0*
@@ -973,6 +839,9 @@ b1 I#
 #2
 1=
 0:
+b10 6
+b10 T#
+b10000 U#
 b1 $
 b1 2
 b1 ;"
@@ -1027,17 +896,14 @@ b0 ]
 b0 `
 b0 c
 b0 f
-b10 6
-b10 T#
-b10000 U#
+b1 4
+b1 S#
+b1 [#
 b1 ;
 b1 k
 b1 ="
 b1 m"
 b1 n"
-b1 4
-b1 S#
-b1 [#
 b1 Z#
 0%
 b1 +
@@ -1071,68 +937,9 @@ b10 S#
 b10 [#
 b10 Z#
 1%
-b0 ,
-b0 3
-b0 k"
-b0 o"
-b0 s"
-b0 w"
-b0 {"
-b0 !#
-b0 %#
-b0 )#
-b0 -#
-b0 1#
-b0 5#
-b0 9#
-b0 =#
-b0 A#
-b0 E#
-b0 I#
 b10 +
 b10 /
 #4
-b0 $
-b0 2
-b0 ;"
-b0 >"
-b0 A"
-b0 D"
-b0 G"
-b0 J"
-b0 M"
-b0 P"
-b0 S"
-b0 V"
-b0 Y"
-b0 \"
-b0 _"
-b0 b"
-b0 e"
-b0 h"
-b0 "
-b0 0
-b0 i
-b0 l
-b0 o
-b0 r
-b0 u
-b0 x
-b0 {
-b0 ~
-b0 #"
-b0 &"
-b0 )"
-b0 ,"
-b0 /"
-b0 2"
-b0 5"
-b0 8"
-b0 ;
-b0 k
-b0 ="
-b0 m"
-b0 n"
 0%
 #5
 1%
