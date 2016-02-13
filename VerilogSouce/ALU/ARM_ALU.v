@@ -46,9 +46,17 @@ casez(OP)
   //ORR, OUT = A or B
   5'b01100:buffer <= A | B;
   //BIC, OUT = A or not(B)
-  5'b01110:buffer <= A & !B;
+  5'b01110:
+	begin
+		buffer <= A & ~B;
+		//$display("A=%3h,B=%3h,!B=%3h, A & B! =%3h",A,B,~B,A & ~B);
+	end
   //MVN Rd := NOT shifter_operand (no first operand)
-  5'b01111:buffer <= !B;
+  5'b01111:
+    begin 
+		buffer <= ~ B;
+		//$display("B=%3h,~B=%3h",B,~B);
+	end
   //BYPASS
   5'b10000:buffer <= B;
   //add 4 A
