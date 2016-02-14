@@ -86,7 +86,29 @@ begin
 				{_Out,_SR29_OUT} = temp2; 
 				end
 			end
-		2'b10:$display("ASR");
+		2'b10:
+			begin 
+				$display("ASR");
+				if(shiftAmount==32)
+					_Out = 0 ;
+				else if (shiftAmount>=33)
+					{_SR29_OUT,_Out} = 0 ;
+				else begin
+				temp = {SR29_IN,shiftVal };
+				//Lazy to encode in loop
+				temp2 = {SR29_IN,SR29_IN,SR29_IN,SR29_IN,SR29_IN,
+						 SR29_IN,SR29_IN,SR29_IN,SR29_IN,SR29_IN,
+						 SR29_IN,SR29_IN,SR29_IN,SR29_IN,SR29_IN,
+						 SR29_IN,SR29_IN,SR29_IN,SR29_IN,SR29_IN,
+						 SR29_IN,SR29_IN,SR29_IN,SR29_IN,SR29_IN,
+						 SR29_IN,SR29_IN,SR29_IN,SR29_IN,SR29_IN,
+						 SR29_IN,SR29_IN};				
+				for(i = 0; i <= shiftAmount[4:0] ;i = i + 1) begin
+						temp2[i] = temp[i+shiftAmount] ; 
+				end
+				{_Out,_SR29_OUT} = temp2; 
+				end
+			end
 		2'b11:$display("ROR");
 	endcase
 end
