@@ -1,0 +1,6 @@
+ARM CORE v8 CU Signal Analysis
+1) CU3..CU0 Bus for selecting Rm as output needs to be used with IR_CU=0 Signal 
+2) IR_CU when zero signal that switches the Rm into a register into a register selected by CU
+3) LOADRF signal that tell the register file to store the constends of in into R[Rd]
+4) LOADPC signal that tell the register file to stor the contends of in into R[15](pc)
+5) 
