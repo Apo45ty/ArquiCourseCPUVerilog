@@ -1,6 +1,22 @@
 ARM CORE v8 CU Signal Analysis
 1) CU3..CU0 Bus for selecting Rm as output needs to be used with IR_CU=0 Signal 
 2) IR_CU when zero signal that switches the Rm into a register into a register selected by CU
-3) LOADRF signal that tell the register file to store the constends of in into R[Rd]
-4) LOADPC signal that tell the register file to stor the contends of in into R[15](pc)
-5) 
+3) RFLOAD signal that tell the register file to store the constends of in into R[Rd]
+4) PCLOAD signal that tell the register file to stor the contends of in into R[15](pc)
+
+5) SRLOAD Loads a value into the Status Register
+6) SRSTORE stores value from the Status Register into bus
+7) OPCODE code that tells the ALU which operation to perform
+8) SREnabled Allows the ALU to alter the SREnabled
+9) ALUSTORE Allows the ALU to write to the bus
+
+10) MARSTORE allows MAR to send address to memory
+11) MARLOAD allows the MAR to be loaded with address to be send to memory
+12) MBRSTORE send the value out MBR into bus
+13) MBRLOAD loads the value from bus into MBR 
+14) IRLOAD loads the value from the bus into IRLOAD
+15) IRSTORE saves the value from IR into bus
+16) MFC input signal that tell the CU when it can read from memory
+17) MFA output signals that tell memory to comence processing transaction
+18) Read/Write Tell the memory whether to Read or Write to itself
+19) Word_Byte Tells the memory to send either a word or a byte
