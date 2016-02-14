@@ -6,4 +6,3 @@
 6) Probar ALU y reg file con transmision de datos atraves del ALU, Operaciones Atravez del ALU 
 ) Dise~ar memoria
 ) enviar print out al professor
-) Ver Deadpool en el Cine.
