@@ -90,9 +90,21 @@ begin
 			begin 
 				$display("ASR");
 				if(shiftAmount==32)
-					_Out = 0 ;
+					_Out = {SR29_IN,SR29_IN,SR29_IN,SR29_IN,SR29_IN,
+						 SR29_IN,SR29_IN,SR29_IN,SR29_IN,SR29_IN,
+						 SR29_IN,SR29_IN,SR29_IN,SR29_IN,SR29_IN,
+						 SR29_IN,SR29_IN,SR29_IN,SR29_IN,SR29_IN,
+						 SR29_IN,SR29_IN,SR29_IN,SR29_IN,SR29_IN,
+						 SR29_IN,SR29_IN,SR29_IN,SR29_IN,SR29_IN,
+						 SR29_IN};	
 				else if (shiftAmount>=33)
-					{_SR29_OUT,_Out} = 0 ;
+					{_SR29_OUT,_Out} = {SR29_IN,SR29_IN,SR29_IN,SR29_IN,SR29_IN,
+						 SR29_IN,SR29_IN,SR29_IN,SR29_IN,SR29_IN,
+						 SR29_IN,SR29_IN,SR29_IN,SR29_IN,SR29_IN,
+						 SR29_IN,SR29_IN,SR29_IN,SR29_IN,SR29_IN,
+						 SR29_IN,SR29_IN,SR29_IN,SR29_IN,SR29_IN,
+						 SR29_IN,SR29_IN,SR29_IN,SR29_IN,SR29_IN,
+						 SR29_IN,SR29_IN};	
 				else begin
 				temp = {SR29_IN,shiftVal };
 				//Lazy to encode in loop
