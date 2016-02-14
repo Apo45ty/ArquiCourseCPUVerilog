@@ -1,0 +1,102 @@
+$date
+	Sun Feb 14 14:25:01 2016
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module BarrelShifterTestBench $end
+$var wire 1 ! SR29_OUT $end
+$var wire 32 " Out [31:0] $end
+$var reg 32 # IR [31:0] $end
+$var reg 32 $ Rm [31:0] $end
+$var reg 32 % Rs [31:0] $end
+$var reg 1 & SR29_IN $end
+$scope module bs $end
+$var wire 32 ' IR [31:0] $end
+$var wire 32 ( Out [31:0] $end
+$var wire 32 ) Rm [31:0] $end
+$var wire 32 * Rs [31:0] $end
+$var wire 1 & SR29_IN $end
+$var wire 1 ! SR29_OUT $end
+$var reg 32 + _Out [31:0] $end
+$var reg 1 , _SR29_OUT $end
+$var reg 32 - shiftAmount [31:0] $end
+$var reg 2 . shiftType [1:0] $end
+$var reg 32 / shiftVal [31:0] $end
+$var reg 33 0 temp [32:0] $end
+$var reg 33 1 temp2 [32:0] $end
+$var integer 32 2 i [31:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b100001 2
+b0 1
+b0 0
+b0 /
+b0 .
+b0 -
+0,
+b0 +
+b0 *
+b0 )
+b0 (
+b0 '
+0&
+b0 %
+b0 $
+b0 #
+b0 "
+0!
+$end
+#1
+b100 "
+b100 (
+b100 +
+b100 1
+b100000 2
+b10 0
+b1 -
+b10 /
+b1 %
+b1 *
+b10 $
+b10 )
+b10000 #
+b10000 '
+#2
+b0 "
+b0 (
+b0 +
+1!
+1,
+b10 2
+b1 1
+b1 .
+b110000 #
+b110000 '
+#3
+b10 .
+b1010000 #
+b1010000 '
+#4
+b11 .
+b1110000 #
+b1110000 '
+#5
+b0 -
+b1100000 /
+b0 %
+b0 *
+b0 $
+b0 )
+b10000000000000000001100000 #
+b10000000000000000001100000 '
+#6
+b1010000000000000000001100000 #
+b1010000000000000000001100000 '
+#1500
