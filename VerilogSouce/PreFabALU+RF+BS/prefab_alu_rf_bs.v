@@ -16,14 +16,14 @@ wire [3:0] FLAGS;
 wire [3:0] FLAGS_OUT;
 
 //BarrelShifter(input [31:0] Rs,Rm,IR,input SR29_IN,output SR29_OUT,output [31:0] Out);
-BarrelShifter bs(Rs,Rm,IR,FLAGS_OUT[1],FLAGS[1], Out);
+BarrelShifter bs(Rs,Rm,IR,FLAGS[1],FLAGS_OUT[1], Out);
 
 //reg  [31:0] A,B; //Rn Rm
 reg [4:0] OP;
 reg S,ALU_OUT;
 
 //ARM_ALU(input wire [31:0] A,B,input wire[4:0] OP,input wire [3:0] FLAGS,output wire [31:0] Out,output wire [3:0] FLAGS_OUT, input wire S,ALU_OUT,);
-ARM_ALU alu(Rn,Out, OP, FLAGS, in,FLAGS_OUT,S,ALU_OUT);
+ARM_ALU alu(Rn,Out, OP, FLAGS_OUT, in,FLAGS,S,ALU_OUT);
 
 
 

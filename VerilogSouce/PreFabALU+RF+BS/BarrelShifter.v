@@ -16,29 +16,29 @@ begin
 			begin
 				if(!IR[4])//Immediate Rs
 					begin
-						$display("Immediate Rm");
 						shiftVal = Rm;
 						shiftAmount = IR[11:7];
 						shiftType = IR[6:5];
+						$display("Immediate Rm = ,shiftVal = %3h,shiftAmount = %3h,shiftType = %3h",shiftVal,shiftAmount,shiftType);
 					end
 				else
 					begin
-						$display("Registe rm");	// Registe rs		
 						shiftVal = Rm;
 						shiftAmount = Rs[5:0];
 						shiftType = IR[6:5];
+						$display("Registe Rm = ,shiftVal = %3h,shiftAmount = %3h,shiftType = %3h",shiftVal,shiftAmount,shiftType);	// Registe rs		
 					end
 			end
 		3'b001:
 			begin//Imediate IR[7:0]
-				$display("Imediate IR[7:0]");
 				shiftVal = IR[7:0];
 				shiftAmount = IR[11:8]*2;
 				shiftType = 2'b11;
+				$display("Imediate IR[7:0] = ,shiftVal = %3h,shiftAmount = %3h,shiftType = %3h",shiftVal,shiftAmount,shiftType);
 			end
 		3'b101:
 			begin//branch 
-				$display("Branch");
+				$display("Branch = ,shiftVal = %3h,shiftAmount = %3h,shiftType = %3h",shiftVal,shiftAmount,shiftType);
 			end
 	endcase
 end
@@ -56,7 +56,7 @@ begin
 	case(shiftType)
 		2'b00:
 			begin
-				$display("LSL");
+				$display("LSL = ,shiftVal = %3h,shiftAmount = %3h,shiftType = %3h",shiftVal,shiftAmount,shiftType);
 				if(shiftAmount==32)
 					_Out = 0 ;
 				else if (shiftAmount>=33)
@@ -72,7 +72,7 @@ begin
 			end
 		2'b01:	
 			begin
-				$display("LSR");
+				$display("LSR = ,shiftVal = %3h,shiftAmount = %3h,shiftType = %3h",shiftVal,shiftAmount,shiftType);
 				if(shiftAmount==32)
 					_Out = 0 ;
 				else if (shiftAmount>=33)
@@ -88,7 +88,7 @@ begin
 			end
 		2'b10:
 			begin 
-				$display("ASR");
+				$display("ASR = ,shiftVal = %3h,shiftAmount = %3h,shiftType = %3h",shiftVal,shiftAmount,shiftType);
 				if(shiftAmount==32)
 					begin
 						_Out = {shiftVal[31],shiftVal[31],shiftVal[31],shiftVal[31],shiftVal[31],
@@ -127,7 +127,7 @@ begin
 			end
 		2'b11:
 			begin
-				$display("ROR");
+				$display("ROR = ,shiftVal = %3h,shiftAmount = %3h,shiftType = %3h",shiftVal,shiftAmount,shiftType);
 				temp = {shiftVal,SR29_IN};
 				temp2 = temp;				
 				for(i = 0; i <= 32 ;i = i + 1) begin

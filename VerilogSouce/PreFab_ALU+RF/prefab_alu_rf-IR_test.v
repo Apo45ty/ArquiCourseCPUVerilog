@@ -21,15 +21,9 @@ ARM_ALU alu(Rn,Rm, OP, FLAGS, in,FLAGS_OUT,S,ALU_OUT);
 
 initial fork
 	//Clk 0 
-	Clk = 0 ; RESET = 1 ; Pcin = 32'bz ;  LOADPC = 0 ; LOAD = 0 ;IR_CU = 1 ; RSLCT[3:0] = 0 ; RSLCT[7:4] = 0 ; RSLCT[11:8] = 0 ; RSLCT[15:12] = 0 ; RSLCT[19:16] = 0 ; OP=17; FLAGS=0; S=1;ALU_OUT=1;
+	Clk = 0 ; RESET = 1 ; Pcin = 32'bz ;  LOADPC = 0 ; LOAD = 0 ;IR_CU = 1 ; RSLCT[3:0] = 0 ; RSLCT[7:4] = 0 ; RSLCT[11:8] = 0 ; RSLCT[15:12] = 0 ; RSLCT[19:16] = 0 ; OP=17; FLAGS=0; S=0;ALU_OUT=0;
 	//Clk 1 (Rising Edge) 
 	#1 RESET = 0 ; #1 Pcin = 32'bz ; #1 LOADPC = 0 ; #1 LOAD = 0 ; #1 IR_CU = 1 ; #1 RSLCT[3:0] = 0 /* Rn */ ; #1 RSLCT[7:4] = 0 /* Rm */; #1 RSLCT[11:8] = 0 /* Rs */; #1 RSLCT[15:12] = 0 /* Rd */; #1 RSLCT[19:16] = 0 /* Rn */ ; #1 OP=16;#1 FLAGS=0;#1 S=0;#1 ALU_OUT=0;
-	//Clk 0 (Falling Edge)Send CU signals
-	#2 Pcin = 32'bz ; #2 LOADPC = 0 ; #2 LOAD = 1 ; #2 IR_CU = 1 ; #2 RSLCT[3:0] = 0 /* Rn */ ; #2 RSLCT[7:4] = 0 /* Rm */; #2 RSLCT[11:8] = 0 /* Rs */; #2 RSLCT[15:12] = 0 /* Rd */; #2 RSLCT[19:16] = 0 /* Rn */ ; #2 OP=17; #2 FLAGS=0;#2 S=1; #2 ALU_OUT=1;
-	//Clk 1 (Rising Edge
-	#3 RESET = 0 ; #3 Pcin = 32'bz ; #3 LOADPC = 0 ; #3 LOAD = 1 ; #3 IR_CU = 1 ; #3 RSLCT[3:0] = 0 /* Rn */ ; #3 RSLCT[7:4] = 0 /* Rm */; #3 RSLCT[11:8] = 0 /* Rs */; #3 RSLCT[15:12] = 0 /* Rd */; #3 RSLCT[19:16] = 0 /* Rn */ ; #3 OP=17;#3 FLAGS=0;#3 S=1;#3 ALU_OUT=1;
-	//Clk 0 (Falling Edge) Send CU signals
-	#4 Pcin = 32'bz ; #4 LOADPC = 0 ; #4 LOAD = 1 ; #4 IR_CU = 1 ; #4 RSLCT[3:0] = 0 /* Rn */ ; #4 RSLCT[7:4] = 0 /* Rm */; #4 RSLCT[11:8] = 0 /* Rs */; #4 RSLCT[15:12] = 1 /* Rd */; #4 RSLCT[19:16] = 0 /* Rn */ ; #4 OP=16; #4 FLAGS=0;#4 S=1; #4 ALU_OUT=1;
 join
 
 always 

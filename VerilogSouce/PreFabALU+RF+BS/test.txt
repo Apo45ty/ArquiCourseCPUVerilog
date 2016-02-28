@@ -1,0 +1,2261 @@
+VCD info: dumpfile prefab_alu_rf_bs2.vcd opened for output.
+ Test Results
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+time =   0 , in =   1 , LOADPC =   0 , LOAD =   0 , IR_CU =   1 , RSLCT = 00000, Rn =   0 ,Rm =   0 ,Rs =   0 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+time =   1 , in =   z , LOADPC =   0 , LOAD =   0 , IR_CU =   1 , RSLCT = 00000, Rn =   0 ,Rm =   0 ,Rs =   0 ,PCout =   z,OP=  0;FLAGS=0; S=zz0z;ALU_OUT=0;0
+Immediate Rm
+time =   2 , in =   1 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =   0 ,Rm =   0 ,Rs =   0 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+Immediate Rm
+Immediate Rm
+LSL
+time =   4 , in =   2 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =   1 ,Rm =   1 ,Rs =   1 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =   6 , in =   3 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =   2 ,Rm =   2 ,Rs =   2 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =   8 , in =   4 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =   3 ,Rm =   3 ,Rs =   3 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  10 , in =   5 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =   4 ,Rm =   4 ,Rs =   4 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  12 , in =   6 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =   5 ,Rm =   5 ,Rs =   5 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  14 , in =   7 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =   6 ,Rm =   6 ,Rs =   6 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  16 , in =   8 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =   7 ,Rm =   7 ,Rs =   7 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  18 , in =   9 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =   8 ,Rm =   8 ,Rs =   8 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  20 , in =  10 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =   9 ,Rm =   9 ,Rs =   9 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  22 , in =  11 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  10 ,Rm =  10 ,Rs =  10 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  24 , in =  12 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  11 ,Rm =  11 ,Rs =  11 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  26 , in =  13 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  12 ,Rm =  12 ,Rs =  12 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  28 , in =  14 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  13 ,Rm =  13 ,Rs =  13 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  30 , in =  15 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  14 ,Rm =  14 ,Rs =  14 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  32 , in =  16 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  15 ,Rm =  15 ,Rs =  15 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  34 , in =  17 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  16 ,Rm =  16 ,Rs =  16 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  36 , in =  18 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  17 ,Rm =  17 ,Rs =  17 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  38 , in =  19 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  18 ,Rm =  18 ,Rs =  18 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  40 , in =  20 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  19 ,Rm =  19 ,Rs =  19 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  42 , in =  21 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  20 ,Rm =  20 ,Rs =  20 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  44 , in =  22 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  21 ,Rm =  21 ,Rs =  21 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  46 , in =  23 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  22 ,Rm =  22 ,Rs =  22 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  48 , in =  24 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  23 ,Rm =  23 ,Rs =  23 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  50 , in =  25 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  24 ,Rm =  24 ,Rs =  24 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  52 , in =  26 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  25 ,Rm =  25 ,Rs =  25 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  54 , in =  27 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  26 ,Rm =  26 ,Rs =  26 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  56 , in =  28 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  27 ,Rm =  27 ,Rs =  27 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  58 , in =  29 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  28 ,Rm =  28 ,Rs =  28 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  60 , in =  30 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  29 ,Rm =  29 ,Rs =  29 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  62 , in =  31 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  30 ,Rm =  30 ,Rs =  30 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  64 , in =  32 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  31 ,Rm =  31 ,Rs =  31 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  66 , in =  33 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  32 ,Rm =  32 ,Rs =  32 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  68 , in =  34 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  33 ,Rm =  33 ,Rs =  33 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  70 , in =  35 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  34 ,Rm =  34 ,Rs =  34 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  72 , in =  36 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  35 ,Rm =  35 ,Rs =  35 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  74 , in =  37 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  36 ,Rm =  36 ,Rs =  36 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  76 , in =  38 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  37 ,Rm =  37 ,Rs =  37 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  78 , in =  39 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  38 ,Rm =  38 ,Rs =  38 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  80 , in =  40 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  39 ,Rm =  39 ,Rs =  39 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  82 , in =  41 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  40 ,Rm =  40 ,Rs =  40 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  84 , in =  42 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  41 ,Rm =  41 ,Rs =  41 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  86 , in =  43 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  42 ,Rm =  42 ,Rs =  42 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  88 , in =  44 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  43 ,Rm =  43 ,Rs =  43 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  90 , in =  45 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  44 ,Rm =  44 ,Rs =  44 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  92 , in =  46 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  45 ,Rm =  45 ,Rs =  45 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  94 , in =  47 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  46 ,Rm =  46 ,Rs =  46 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  96 , in =  48 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  47 ,Rm =  47 ,Rs =  47 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time =  98 , in =  49 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  48 ,Rm =  48 ,Rs =  48 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 100 , in =  50 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  49 ,Rm =  49 ,Rs =  49 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 102 , in =  51 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  50 ,Rm =  50 ,Rs =  50 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 104 , in =  52 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  51 ,Rm =  51 ,Rs =  51 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 106 , in =  53 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  52 ,Rm =  52 ,Rs =  52 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 108 , in =  54 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  53 ,Rm =  53 ,Rs =  53 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 110 , in =  55 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  54 ,Rm =  54 ,Rs =  54 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 112 , in =  56 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  55 ,Rm =  55 ,Rs =  55 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 114 , in =  57 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  56 ,Rm =  56 ,Rs =  56 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 116 , in =  58 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  57 ,Rm =  57 ,Rs =  57 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 118 , in =  59 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  58 ,Rm =  58 ,Rs =  58 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 120 , in =  60 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  59 ,Rm =  59 ,Rs =  59 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 122 , in =  61 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  60 ,Rm =  60 ,Rs =  60 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 124 , in =  62 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  61 ,Rm =  61 ,Rs =  61 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 126 , in =  63 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  62 ,Rm =  62 ,Rs =  62 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 128 , in =  64 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  63 ,Rm =  63 ,Rs =  63 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 130 , in =  65 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  64 ,Rm =  64 ,Rs =  64 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 132 , in =  66 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  65 ,Rm =  65 ,Rs =  65 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 134 , in =  67 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  66 ,Rm =  66 ,Rs =  66 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 136 , in =  68 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  67 ,Rm =  67 ,Rs =  67 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 138 , in =  69 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  68 ,Rm =  68 ,Rs =  68 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 140 , in =  70 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  69 ,Rm =  69 ,Rs =  69 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 142 , in =  71 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  70 ,Rm =  70 ,Rs =  70 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 144 , in =  72 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  71 ,Rm =  71 ,Rs =  71 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 146 , in =  73 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  72 ,Rm =  72 ,Rs =  72 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 148 , in =  74 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  73 ,Rm =  73 ,Rs =  73 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 150 , in =  75 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  74 ,Rm =  74 ,Rs =  74 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 152 , in =  76 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  75 ,Rm =  75 ,Rs =  75 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 154 , in =  77 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  76 ,Rm =  76 ,Rs =  76 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 156 , in =  78 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  77 ,Rm =  77 ,Rs =  77 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 158 , in =  79 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  78 ,Rm =  78 ,Rs =  78 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 160 , in =  80 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  79 ,Rm =  79 ,Rs =  79 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 162 , in =  81 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  80 ,Rm =  80 ,Rs =  80 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 164 , in =  82 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  81 ,Rm =  81 ,Rs =  81 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 166 , in =  83 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  82 ,Rm =  82 ,Rs =  82 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 168 , in =  84 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  83 ,Rm =  83 ,Rs =  83 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 170 , in =  85 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  84 ,Rm =  84 ,Rs =  84 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 172 , in =  86 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  85 ,Rm =  85 ,Rs =  85 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 174 , in =  87 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  86 ,Rm =  86 ,Rs =  86 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 176 , in =  88 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  87 ,Rm =  87 ,Rs =  87 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 178 , in =  89 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  88 ,Rm =  88 ,Rs =  88 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 180 , in =  90 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  89 ,Rm =  89 ,Rs =  89 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 182 , in =  91 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  90 ,Rm =  90 ,Rs =  90 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 184 , in =  92 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  91 ,Rm =  91 ,Rs =  91 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 186 , in =  93 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  92 ,Rm =  92 ,Rs =  92 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 188 , in =  94 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  93 ,Rm =  93 ,Rs =  93 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 190 , in =  95 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  94 ,Rm =  94 ,Rs =  94 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 192 , in =  96 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  95 ,Rm =  95 ,Rs =  95 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 194 , in =  97 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  96 ,Rm =  96 ,Rs =  96 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 196 , in =  98 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  97 ,Rm =  97 ,Rs =  97 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 198 , in =  99 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  98 ,Rm =  98 ,Rs =  98 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 200 , in = 100 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn =  99 ,Rm =  99 ,Rs =  99 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 202 , in = 101 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 100 ,Rm = 100 ,Rs = 100 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 204 , in = 102 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 101 ,Rm = 101 ,Rs = 101 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 206 , in = 103 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 102 ,Rm = 102 ,Rs = 102 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 208 , in = 104 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 103 ,Rm = 103 ,Rs = 103 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 210 , in = 105 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 104 ,Rm = 104 ,Rs = 104 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 212 , in = 106 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 105 ,Rm = 105 ,Rs = 105 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 214 , in = 107 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 106 ,Rm = 106 ,Rs = 106 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 216 , in = 108 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 107 ,Rm = 107 ,Rs = 107 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 218 , in = 109 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 108 ,Rm = 108 ,Rs = 108 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 220 , in = 110 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 109 ,Rm = 109 ,Rs = 109 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 222 , in = 111 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 110 ,Rm = 110 ,Rs = 110 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 224 , in = 112 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 111 ,Rm = 111 ,Rs = 111 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 226 , in = 113 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 112 ,Rm = 112 ,Rs = 112 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 228 , in = 114 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 113 ,Rm = 113 ,Rs = 113 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 230 , in = 115 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 114 ,Rm = 114 ,Rs = 114 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 232 , in = 116 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 115 ,Rm = 115 ,Rs = 115 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 234 , in = 117 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 116 ,Rm = 116 ,Rs = 116 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 236 , in = 118 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 117 ,Rm = 117 ,Rs = 117 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 238 , in = 119 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 118 ,Rm = 118 ,Rs = 118 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 240 , in = 120 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 119 ,Rm = 119 ,Rs = 119 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 242 , in = 121 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 120 ,Rm = 120 ,Rs = 120 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 244 , in = 122 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 121 ,Rm = 121 ,Rs = 121 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 246 , in = 123 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 122 ,Rm = 122 ,Rs = 122 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 248 , in = 124 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 123 ,Rm = 123 ,Rs = 123 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 250 , in = 125 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 124 ,Rm = 124 ,Rs = 124 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 252 , in = 126 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 125 ,Rm = 125 ,Rs = 125 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 254 , in = 127 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 126 ,Rm = 126 ,Rs = 126 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 256 , in = 128 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 127 ,Rm = 127 ,Rs = 127 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 258 , in = 129 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 128 ,Rm = 128 ,Rs = 128 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 260 , in = 130 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 129 ,Rm = 129 ,Rs = 129 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 262 , in = 131 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 130 ,Rm = 130 ,Rs = 130 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 264 , in = 132 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 131 ,Rm = 131 ,Rs = 131 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 266 , in = 133 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 132 ,Rm = 132 ,Rs = 132 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 268 , in = 134 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 133 ,Rm = 133 ,Rs = 133 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 270 , in = 135 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 134 ,Rm = 134 ,Rs = 134 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 272 , in = 136 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 135 ,Rm = 135 ,Rs = 135 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 274 , in = 137 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 136 ,Rm = 136 ,Rs = 136 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 276 , in = 138 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 137 ,Rm = 137 ,Rs = 137 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 278 , in = 139 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 138 ,Rm = 138 ,Rs = 138 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 280 , in = 140 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 139 ,Rm = 139 ,Rs = 139 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 282 , in = 141 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 140 ,Rm = 140 ,Rs = 140 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 284 , in = 142 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 141 ,Rm = 141 ,Rs = 141 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 286 , in = 143 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 142 ,Rm = 142 ,Rs = 142 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 288 , in = 144 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 143 ,Rm = 143 ,Rs = 143 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 290 , in = 145 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 144 ,Rm = 144 ,Rs = 144 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 292 , in = 146 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 145 ,Rm = 145 ,Rs = 145 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 294 , in = 147 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 146 ,Rm = 146 ,Rs = 146 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 296 , in = 148 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 147 ,Rm = 147 ,Rs = 147 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 298 , in = 149 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 148 ,Rm = 148 ,Rs = 148 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 300 , in = 150 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 149 ,Rm = 149 ,Rs = 149 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 302 , in = 151 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 150 ,Rm = 150 ,Rs = 150 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 304 , in = 152 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 151 ,Rm = 151 ,Rs = 151 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 306 , in = 153 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 152 ,Rm = 152 ,Rs = 152 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 308 , in = 154 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 153 ,Rm = 153 ,Rs = 153 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 310 , in = 155 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 154 ,Rm = 154 ,Rs = 154 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 312 , in = 156 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 155 ,Rm = 155 ,Rs = 155 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 314 , in = 157 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 156 ,Rm = 156 ,Rs = 156 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 316 , in = 158 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 157 ,Rm = 157 ,Rs = 157 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 318 , in = 159 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 158 ,Rm = 158 ,Rs = 158 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 320 , in = 160 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 159 ,Rm = 159 ,Rs = 159 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 322 , in = 161 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 160 ,Rm = 160 ,Rs = 160 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 324 , in = 162 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 161 ,Rm = 161 ,Rs = 161 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 326 , in = 163 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 162 ,Rm = 162 ,Rs = 162 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 328 , in = 164 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 163 ,Rm = 163 ,Rs = 163 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 330 , in = 165 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 164 ,Rm = 164 ,Rs = 164 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 332 , in = 166 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 165 ,Rm = 165 ,Rs = 165 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 334 , in = 167 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 166 ,Rm = 166 ,Rs = 166 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 336 , in = 168 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 167 ,Rm = 167 ,Rs = 167 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 338 , in = 169 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 168 ,Rm = 168 ,Rs = 168 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 340 , in = 170 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 169 ,Rm = 169 ,Rs = 169 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 342 , in = 171 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 170 ,Rm = 170 ,Rs = 170 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 344 , in = 172 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 171 ,Rm = 171 ,Rs = 171 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 346 , in = 173 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 172 ,Rm = 172 ,Rs = 172 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 348 , in = 174 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 173 ,Rm = 173 ,Rs = 173 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 350 , in = 175 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 174 ,Rm = 174 ,Rs = 174 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 352 , in = 176 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 175 ,Rm = 175 ,Rs = 175 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 354 , in = 177 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 176 ,Rm = 176 ,Rs = 176 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 356 , in = 178 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 177 ,Rm = 177 ,Rs = 177 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 358 , in = 179 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 178 ,Rm = 178 ,Rs = 178 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 360 , in = 180 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 179 ,Rm = 179 ,Rs = 179 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 362 , in = 181 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 180 ,Rm = 180 ,Rs = 180 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 364 , in = 182 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 181 ,Rm = 181 ,Rs = 181 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 366 , in = 183 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 182 ,Rm = 182 ,Rs = 182 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 368 , in = 184 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 183 ,Rm = 183 ,Rs = 183 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 370 , in = 185 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 184 ,Rm = 184 ,Rs = 184 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 372 , in = 186 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 185 ,Rm = 185 ,Rs = 185 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 374 , in = 187 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 186 ,Rm = 186 ,Rs = 186 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 376 , in = 188 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 187 ,Rm = 187 ,Rs = 187 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 378 , in = 189 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 188 ,Rm = 188 ,Rs = 188 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 380 , in = 190 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 189 ,Rm = 189 ,Rs = 189 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 382 , in = 191 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 190 ,Rm = 190 ,Rs = 190 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 384 , in = 192 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 191 ,Rm = 191 ,Rs = 191 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 386 , in = 193 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 192 ,Rm = 192 ,Rs = 192 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 388 , in = 194 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 193 ,Rm = 193 ,Rs = 193 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 390 , in = 195 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 194 ,Rm = 194 ,Rs = 194 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 392 , in = 196 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 195 ,Rm = 195 ,Rs = 195 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 394 , in = 197 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 196 ,Rm = 196 ,Rs = 196 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 396 , in = 198 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 197 ,Rm = 197 ,Rs = 197 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 398 , in = 199 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 198 ,Rm = 198 ,Rs = 198 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 400 , in = 200 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 199 ,Rm = 199 ,Rs = 199 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 402 , in = 201 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 200 ,Rm = 200 ,Rs = 200 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 404 , in = 202 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 201 ,Rm = 201 ,Rs = 201 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 406 , in = 203 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 202 ,Rm = 202 ,Rs = 202 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 408 , in = 204 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 203 ,Rm = 203 ,Rs = 203 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 410 , in = 205 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 204 ,Rm = 204 ,Rs = 204 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 412 , in = 206 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 205 ,Rm = 205 ,Rs = 205 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 414 , in = 207 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 206 ,Rm = 206 ,Rs = 206 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 416 , in = 208 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 207 ,Rm = 207 ,Rs = 207 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 418 , in = 209 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 208 ,Rm = 208 ,Rs = 208 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 420 , in = 210 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 209 ,Rm = 209 ,Rs = 209 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 422 , in = 211 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 210 ,Rm = 210 ,Rs = 210 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 424 , in = 212 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 211 ,Rm = 211 ,Rs = 211 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 426 , in = 213 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 212 ,Rm = 212 ,Rs = 212 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 428 , in = 214 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 213 ,Rm = 213 ,Rs = 213 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 430 , in = 215 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 214 ,Rm = 214 ,Rs = 214 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 432 , in = 216 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 215 ,Rm = 215 ,Rs = 215 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 434 , in = 217 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 216 ,Rm = 216 ,Rs = 216 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 436 , in = 218 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 217 ,Rm = 217 ,Rs = 217 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 438 , in = 219 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 218 ,Rm = 218 ,Rs = 218 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 440 , in = 220 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 219 ,Rm = 219 ,Rs = 219 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 442 , in = 221 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 220 ,Rm = 220 ,Rs = 220 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 444 , in = 222 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 221 ,Rm = 221 ,Rs = 221 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 446 , in = 223 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 222 ,Rm = 222 ,Rs = 222 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 448 , in = 224 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 223 ,Rm = 223 ,Rs = 223 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 450 , in = 225 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 224 ,Rm = 224 ,Rs = 224 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 452 , in = 226 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 225 ,Rm = 225 ,Rs = 225 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 454 , in = 227 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 226 ,Rm = 226 ,Rs = 226 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 456 , in = 228 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 227 ,Rm = 227 ,Rs = 227 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 458 , in = 229 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 228 ,Rm = 228 ,Rs = 228 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 460 , in = 230 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 229 ,Rm = 229 ,Rs = 229 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 462 , in = 231 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 230 ,Rm = 230 ,Rs = 230 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 464 , in = 232 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 231 ,Rm = 231 ,Rs = 231 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 466 , in = 233 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 232 ,Rm = 232 ,Rs = 232 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 468 , in = 234 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 233 ,Rm = 233 ,Rs = 233 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 470 , in = 235 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 234 ,Rm = 234 ,Rs = 234 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 472 , in = 236 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 235 ,Rm = 235 ,Rs = 235 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 474 , in = 237 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 236 ,Rm = 236 ,Rs = 236 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 476 , in = 238 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 237 ,Rm = 237 ,Rs = 237 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 478 , in = 239 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 238 ,Rm = 238 ,Rs = 238 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 480 , in = 240 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 239 ,Rm = 239 ,Rs = 239 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 482 , in = 241 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 240 ,Rm = 240 ,Rs = 240 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 484 , in = 242 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 241 ,Rm = 241 ,Rs = 241 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 486 , in = 243 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 242 ,Rm = 242 ,Rs = 242 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 488 , in = 244 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 243 ,Rm = 243 ,Rs = 243 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 490 , in = 245 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 244 ,Rm = 244 ,Rs = 244 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 492 , in = 246 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 245 ,Rm = 245 ,Rs = 245 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 494 , in = 247 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 246 ,Rm = 246 ,Rs = 246 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 496 , in = 248 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 247 ,Rm = 247 ,Rs = 247 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 498 , in = 249 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 248 ,Rm = 248 ,Rs = 248 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 500 , in = 250 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 249 ,Rm = 249 ,Rs = 249 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 502 , in = 251 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 250 ,Rm = 250 ,Rs = 250 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 504 , in = 252 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 251 ,Rm = 251 ,Rs = 251 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 506 , in = 253 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 252 ,Rm = 252 ,Rs = 252 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 508 , in = 254 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 253 ,Rm = 253 ,Rs = 253 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 510 , in = 255 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 254 ,Rm = 254 ,Rs = 254 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 512 , in = 256 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 255 ,Rm = 255 ,Rs = 255 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 514 , in = 257 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 256 ,Rm = 256 ,Rs = 256 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 516 , in = 258 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 257 ,Rm = 257 ,Rs = 257 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 518 , in = 259 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 258 ,Rm = 258 ,Rs = 258 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 520 , in = 260 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 259 ,Rm = 259 ,Rs = 259 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 522 , in = 261 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 260 ,Rm = 260 ,Rs = 260 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 524 , in = 262 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 261 ,Rm = 261 ,Rs = 261 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 526 , in = 263 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 262 ,Rm = 262 ,Rs = 262 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 528 , in = 264 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 263 ,Rm = 263 ,Rs = 263 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 530 , in = 265 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 264 ,Rm = 264 ,Rs = 264 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 532 , in = 266 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 265 ,Rm = 265 ,Rs = 265 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 534 , in = 267 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 266 ,Rm = 266 ,Rs = 266 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 536 , in = 268 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 267 ,Rm = 267 ,Rs = 267 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 538 , in = 269 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 268 ,Rm = 268 ,Rs = 268 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 540 , in = 270 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 269 ,Rm = 269 ,Rs = 269 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 542 , in = 271 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 270 ,Rm = 270 ,Rs = 270 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 544 , in = 272 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 271 ,Rm = 271 ,Rs = 271 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 546 , in = 273 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 272 ,Rm = 272 ,Rs = 272 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 548 , in = 274 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 273 ,Rm = 273 ,Rs = 273 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 550 , in = 275 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 274 ,Rm = 274 ,Rs = 274 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 552 , in = 276 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 275 ,Rm = 275 ,Rs = 275 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 554 , in = 277 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 276 ,Rm = 276 ,Rs = 276 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 556 , in = 278 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 277 ,Rm = 277 ,Rs = 277 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 558 , in = 279 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 278 ,Rm = 278 ,Rs = 278 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 560 , in = 280 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 279 ,Rm = 279 ,Rs = 279 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 562 , in = 281 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 280 ,Rm = 280 ,Rs = 280 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 564 , in = 282 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 281 ,Rm = 281 ,Rs = 281 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 566 , in = 283 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 282 ,Rm = 282 ,Rs = 282 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 568 , in = 284 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 283 ,Rm = 283 ,Rs = 283 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 570 , in = 285 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 284 ,Rm = 284 ,Rs = 284 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 572 , in = 286 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 285 ,Rm = 285 ,Rs = 285 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 574 , in = 287 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 286 ,Rm = 286 ,Rs = 286 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 576 , in = 288 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 287 ,Rm = 287 ,Rs = 287 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 578 , in = 289 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 288 ,Rm = 288 ,Rs = 288 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 580 , in = 290 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 289 ,Rm = 289 ,Rs = 289 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 582 , in = 291 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 290 ,Rm = 290 ,Rs = 290 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 584 , in = 292 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 291 ,Rm = 291 ,Rs = 291 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 586 , in = 293 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 292 ,Rm = 292 ,Rs = 292 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 588 , in = 294 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 293 ,Rm = 293 ,Rs = 293 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 590 , in = 295 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 294 ,Rm = 294 ,Rs = 294 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 592 , in = 296 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 295 ,Rm = 295 ,Rs = 295 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 594 , in = 297 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 296 ,Rm = 296 ,Rs = 296 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 596 , in = 298 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 297 ,Rm = 297 ,Rs = 297 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 598 , in = 299 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 298 ,Rm = 298 ,Rs = 298 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 600 , in = 300 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 299 ,Rm = 299 ,Rs = 299 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 602 , in = 301 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 300 ,Rm = 300 ,Rs = 300 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 604 , in = 302 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 301 ,Rm = 301 ,Rs = 301 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 606 , in = 303 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 302 ,Rm = 302 ,Rs = 302 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 608 , in = 304 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 303 ,Rm = 303 ,Rs = 303 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 610 , in = 305 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 304 ,Rm = 304 ,Rs = 304 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 612 , in = 306 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 305 ,Rm = 305 ,Rs = 305 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 614 , in = 307 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 306 ,Rm = 306 ,Rs = 306 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 616 , in = 308 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 307 ,Rm = 307 ,Rs = 307 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 618 , in = 309 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 308 ,Rm = 308 ,Rs = 308 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 620 , in = 310 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 309 ,Rm = 309 ,Rs = 309 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 622 , in = 311 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 310 ,Rm = 310 ,Rs = 310 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 624 , in = 312 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 311 ,Rm = 311 ,Rs = 311 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 626 , in = 313 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 312 ,Rm = 312 ,Rs = 312 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 628 , in = 314 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 313 ,Rm = 313 ,Rs = 313 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 630 , in = 315 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 314 ,Rm = 314 ,Rs = 314 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 632 , in = 316 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 315 ,Rm = 315 ,Rs = 315 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 634 , in = 317 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 316 ,Rm = 316 ,Rs = 316 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 636 , in = 318 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 317 ,Rm = 317 ,Rs = 317 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 638 , in = 319 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 318 ,Rm = 318 ,Rs = 318 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 640 , in = 320 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 319 ,Rm = 319 ,Rs = 319 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 642 , in = 321 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 320 ,Rm = 320 ,Rs = 320 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 644 , in = 322 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 321 ,Rm = 321 ,Rs = 321 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 646 , in = 323 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 322 ,Rm = 322 ,Rs = 322 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 648 , in = 324 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 323 ,Rm = 323 ,Rs = 323 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 650 , in = 325 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 324 ,Rm = 324 ,Rs = 324 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 652 , in = 326 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 325 ,Rm = 325 ,Rs = 325 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 654 , in = 327 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 326 ,Rm = 326 ,Rs = 326 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 656 , in = 328 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 327 ,Rm = 327 ,Rs = 327 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 658 , in = 329 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 328 ,Rm = 328 ,Rs = 328 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 660 , in = 330 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 329 ,Rm = 329 ,Rs = 329 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 662 , in = 331 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 330 ,Rm = 330 ,Rs = 330 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 664 , in = 332 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 331 ,Rm = 331 ,Rs = 331 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 666 , in = 333 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 332 ,Rm = 332 ,Rs = 332 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 668 , in = 334 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 333 ,Rm = 333 ,Rs = 333 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 670 , in = 335 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 334 ,Rm = 334 ,Rs = 334 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 672 , in = 336 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 335 ,Rm = 335 ,Rs = 335 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 674 , in = 337 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 336 ,Rm = 336 ,Rs = 336 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 676 , in = 338 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 337 ,Rm = 337 ,Rs = 337 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 678 , in = 339 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 338 ,Rm = 338 ,Rs = 338 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 680 , in = 340 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 339 ,Rm = 339 ,Rs = 339 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 682 , in = 341 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 340 ,Rm = 340 ,Rs = 340 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 684 , in = 342 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 341 ,Rm = 341 ,Rs = 341 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 686 , in = 343 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 342 ,Rm = 342 ,Rs = 342 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 688 , in = 344 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 343 ,Rm = 343 ,Rs = 343 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 690 , in = 345 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 344 ,Rm = 344 ,Rs = 344 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 692 , in = 346 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 345 ,Rm = 345 ,Rs = 345 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 694 , in = 347 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 346 ,Rm = 346 ,Rs = 346 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 696 , in = 348 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 347 ,Rm = 347 ,Rs = 347 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 698 , in = 349 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 348 ,Rm = 348 ,Rs = 348 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 700 , in = 350 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 349 ,Rm = 349 ,Rs = 349 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 702 , in = 351 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 350 ,Rm = 350 ,Rs = 350 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 704 , in = 352 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 351 ,Rm = 351 ,Rs = 351 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 706 , in = 353 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 352 ,Rm = 352 ,Rs = 352 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 708 , in = 354 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 353 ,Rm = 353 ,Rs = 353 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 710 , in = 355 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 354 ,Rm = 354 ,Rs = 354 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 712 , in = 356 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 355 ,Rm = 355 ,Rs = 355 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 714 , in = 357 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 356 ,Rm = 356 ,Rs = 356 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 716 , in = 358 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 357 ,Rm = 357 ,Rs = 357 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 718 , in = 359 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 358 ,Rm = 358 ,Rs = 358 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 720 , in = 360 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 359 ,Rm = 359 ,Rs = 359 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 722 , in = 361 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 360 ,Rm = 360 ,Rs = 360 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 724 , in = 362 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 361 ,Rm = 361 ,Rs = 361 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 726 , in = 363 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 362 ,Rm = 362 ,Rs = 362 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 728 , in = 364 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 363 ,Rm = 363 ,Rs = 363 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 730 , in = 365 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 364 ,Rm = 364 ,Rs = 364 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 732 , in = 366 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 365 ,Rm = 365 ,Rs = 365 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 734 , in = 367 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 366 ,Rm = 366 ,Rs = 366 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 736 , in = 368 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 367 ,Rm = 367 ,Rs = 367 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 738 , in = 369 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 368 ,Rm = 368 ,Rs = 368 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 740 , in = 370 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 369 ,Rm = 369 ,Rs = 369 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 742 , in = 371 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 370 ,Rm = 370 ,Rs = 370 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 744 , in = 372 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 371 ,Rm = 371 ,Rs = 371 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 746 , in = 373 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 372 ,Rm = 372 ,Rs = 372 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 748 , in = 374 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 373 ,Rm = 373 ,Rs = 373 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 750 , in = 375 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 374 ,Rm = 374 ,Rs = 374 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 752 , in = 376 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 375 ,Rm = 375 ,Rs = 375 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 754 , in = 377 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 376 ,Rm = 376 ,Rs = 376 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 756 , in = 378 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 377 ,Rm = 377 ,Rs = 377 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 758 , in = 379 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 378 ,Rm = 378 ,Rs = 378 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 760 , in = 380 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 379 ,Rm = 379 ,Rs = 379 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 762 , in = 381 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 380 ,Rm = 380 ,Rs = 380 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 764 , in = 382 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 381 ,Rm = 381 ,Rs = 381 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 766 , in = 383 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 382 ,Rm = 382 ,Rs = 382 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 768 , in = 384 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 383 ,Rm = 383 ,Rs = 383 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 770 , in = 385 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 384 ,Rm = 384 ,Rs = 384 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 772 , in = 386 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 385 ,Rm = 385 ,Rs = 385 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 774 , in = 387 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 386 ,Rm = 386 ,Rs = 386 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 776 , in = 388 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 387 ,Rm = 387 ,Rs = 387 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 778 , in = 389 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 388 ,Rm = 388 ,Rs = 388 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 780 , in = 390 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 389 ,Rm = 389 ,Rs = 389 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 782 , in = 391 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 390 ,Rm = 390 ,Rs = 390 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 784 , in = 392 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 391 ,Rm = 391 ,Rs = 391 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 786 , in = 393 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 392 ,Rm = 392 ,Rs = 392 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 788 , in = 394 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 393 ,Rm = 393 ,Rs = 393 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 790 , in = 395 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 394 ,Rm = 394 ,Rs = 394 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 792 , in = 396 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 395 ,Rm = 395 ,Rs = 395 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 794 , in = 397 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 396 ,Rm = 396 ,Rs = 396 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 796 , in = 398 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 397 ,Rm = 397 ,Rs = 397 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 798 , in = 399 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 398 ,Rm = 398 ,Rs = 398 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 800 , in = 400 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 399 ,Rm = 399 ,Rs = 399 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 802 , in = 401 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 400 ,Rm = 400 ,Rs = 400 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 804 , in = 402 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 401 ,Rm = 401 ,Rs = 401 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 806 , in = 403 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 402 ,Rm = 402 ,Rs = 402 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 808 , in = 404 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 403 ,Rm = 403 ,Rs = 403 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 810 , in = 405 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 404 ,Rm = 404 ,Rs = 404 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 812 , in = 406 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 405 ,Rm = 405 ,Rs = 405 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 814 , in = 407 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 406 ,Rm = 406 ,Rs = 406 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 816 , in = 408 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 407 ,Rm = 407 ,Rs = 407 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 818 , in = 409 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 408 ,Rm = 408 ,Rs = 408 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 820 , in = 410 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 409 ,Rm = 409 ,Rs = 409 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 822 , in = 411 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 410 ,Rm = 410 ,Rs = 410 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 824 , in = 412 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 411 ,Rm = 411 ,Rs = 411 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 826 , in = 413 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 412 ,Rm = 412 ,Rs = 412 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 828 , in = 414 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 413 ,Rm = 413 ,Rs = 413 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 830 , in = 415 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 414 ,Rm = 414 ,Rs = 414 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 832 , in = 416 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 415 ,Rm = 415 ,Rs = 415 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 834 , in = 417 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 416 ,Rm = 416 ,Rs = 416 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 836 , in = 418 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 417 ,Rm = 417 ,Rs = 417 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 838 , in = 419 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 418 ,Rm = 418 ,Rs = 418 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 840 , in = 420 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 419 ,Rm = 419 ,Rs = 419 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 842 , in = 421 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 420 ,Rm = 420 ,Rs = 420 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 844 , in = 422 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 421 ,Rm = 421 ,Rs = 421 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 846 , in = 423 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 422 ,Rm = 422 ,Rs = 422 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 848 , in = 424 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 423 ,Rm = 423 ,Rs = 423 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 850 , in = 425 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 424 ,Rm = 424 ,Rs = 424 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 852 , in = 426 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 425 ,Rm = 425 ,Rs = 425 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 854 , in = 427 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 426 ,Rm = 426 ,Rs = 426 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 856 , in = 428 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 427 ,Rm = 427 ,Rs = 427 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 858 , in = 429 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 428 ,Rm = 428 ,Rs = 428 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 860 , in = 430 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 429 ,Rm = 429 ,Rs = 429 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 862 , in = 431 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 430 ,Rm = 430 ,Rs = 430 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 864 , in = 432 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 431 ,Rm = 431 ,Rs = 431 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 866 , in = 433 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 432 ,Rm = 432 ,Rs = 432 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 868 , in = 434 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 433 ,Rm = 433 ,Rs = 433 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 870 , in = 435 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 434 ,Rm = 434 ,Rs = 434 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 872 , in = 436 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 435 ,Rm = 435 ,Rs = 435 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 874 , in = 437 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 436 ,Rm = 436 ,Rs = 436 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 876 , in = 438 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 437 ,Rm = 437 ,Rs = 437 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 878 , in = 439 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 438 ,Rm = 438 ,Rs = 438 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 880 , in = 440 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 439 ,Rm = 439 ,Rs = 439 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 882 , in = 441 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 440 ,Rm = 440 ,Rs = 440 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 884 , in = 442 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 441 ,Rm = 441 ,Rs = 441 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 886 , in = 443 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 442 ,Rm = 442 ,Rs = 442 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 888 , in = 444 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 443 ,Rm = 443 ,Rs = 443 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 890 , in = 445 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 444 ,Rm = 444 ,Rs = 444 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 892 , in = 446 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 445 ,Rm = 445 ,Rs = 445 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 894 , in = 447 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 446 ,Rm = 446 ,Rs = 446 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 896 , in = 448 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 447 ,Rm = 447 ,Rs = 447 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 898 , in = 449 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 448 ,Rm = 448 ,Rs = 448 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 900 , in = 450 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 449 ,Rm = 449 ,Rs = 449 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 902 , in = 451 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 450 ,Rm = 450 ,Rs = 450 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 904 , in = 452 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 451 ,Rm = 451 ,Rs = 451 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 906 , in = 453 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 452 ,Rm = 452 ,Rs = 452 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 908 , in = 454 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 453 ,Rm = 453 ,Rs = 453 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 910 , in = 455 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 454 ,Rm = 454 ,Rs = 454 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 912 , in = 456 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 455 ,Rm = 455 ,Rs = 455 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 914 , in = 457 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 456 ,Rm = 456 ,Rs = 456 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 916 , in = 458 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 457 ,Rm = 457 ,Rs = 457 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 918 , in = 459 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 458 ,Rm = 458 ,Rs = 458 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 920 , in = 460 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 459 ,Rm = 459 ,Rs = 459 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 922 , in = 461 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 460 ,Rm = 460 ,Rs = 460 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 924 , in = 462 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 461 ,Rm = 461 ,Rs = 461 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 926 , in = 463 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 462 ,Rm = 462 ,Rs = 462 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 928 , in = 464 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 463 ,Rm = 463 ,Rs = 463 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 930 , in = 465 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 464 ,Rm = 464 ,Rs = 464 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 932 , in = 466 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 465 ,Rm = 465 ,Rs = 465 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 934 , in = 467 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 466 ,Rm = 466 ,Rs = 466 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 936 , in = 468 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 467 ,Rm = 467 ,Rs = 467 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 938 , in = 469 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 468 ,Rm = 468 ,Rs = 468 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 940 , in = 470 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 469 ,Rm = 469 ,Rs = 469 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 942 , in = 471 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 470 ,Rm = 470 ,Rs = 470 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 944 , in = 472 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 471 ,Rm = 471 ,Rs = 471 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 946 , in = 473 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 472 ,Rm = 472 ,Rs = 472 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 948 , in = 474 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 473 ,Rm = 473 ,Rs = 473 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 950 , in = 475 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 474 ,Rm = 474 ,Rs = 474 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 952 , in = 476 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 475 ,Rm = 475 ,Rs = 475 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 954 , in = 477 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 476 ,Rm = 476 ,Rs = 476 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 956 , in = 478 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 477 ,Rm = 477 ,Rs = 477 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 958 , in = 479 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 478 ,Rm = 478 ,Rs = 478 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 960 , in = 480 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 479 ,Rm = 479 ,Rs = 479 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 962 , in = 481 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 480 ,Rm = 480 ,Rs = 480 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 964 , in = 482 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 481 ,Rm = 481 ,Rs = 481 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 966 , in = 483 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 482 ,Rm = 482 ,Rs = 482 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 968 , in = 484 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 483 ,Rm = 483 ,Rs = 483 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 970 , in = 485 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 484 ,Rm = 484 ,Rs = 484 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 972 , in = 486 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 485 ,Rm = 485 ,Rs = 485 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 974 , in = 487 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 486 ,Rm = 486 ,Rs = 486 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 976 , in = 488 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 487 ,Rm = 487 ,Rs = 487 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 978 , in = 489 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 488 ,Rm = 488 ,Rs = 488 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 980 , in = 490 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 489 ,Rm = 489 ,Rs = 489 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 982 , in = 491 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 490 ,Rm = 490 ,Rs = 490 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 984 , in = 492 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 491 ,Rm = 491 ,Rs = 491 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 986 , in = 493 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 492 ,Rm = 492 ,Rs = 492 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 988 , in = 494 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 493 ,Rm = 493 ,Rs = 493 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 990 , in = 495 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 494 ,Rm = 494 ,Rs = 494 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 992 , in = 496 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 495 ,Rm = 495 ,Rs = 495 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 994 , in = 497 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 496 ,Rm = 496 ,Rs = 496 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 996 , in = 498 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 497 ,Rm = 497 ,Rs = 497 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 998 , in = 499 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 498 ,Rm = 498 ,Rs = 498 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1000 , in = 500 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 499 ,Rm = 499 ,Rs = 499 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1002 , in = 501 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 500 ,Rm = 500 ,Rs = 500 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1004 , in = 502 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 501 ,Rm = 501 ,Rs = 501 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1006 , in = 503 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 502 ,Rm = 502 ,Rs = 502 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1008 , in = 504 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 503 ,Rm = 503 ,Rs = 503 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1010 , in = 505 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 504 ,Rm = 504 ,Rs = 504 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1012 , in = 506 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 505 ,Rm = 505 ,Rs = 505 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1014 , in = 507 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 506 ,Rm = 506 ,Rs = 506 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1016 , in = 508 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 507 ,Rm = 507 ,Rs = 507 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1018 , in = 509 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 508 ,Rm = 508 ,Rs = 508 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1020 , in = 510 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 509 ,Rm = 509 ,Rs = 509 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1022 , in = 511 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 510 ,Rm = 510 ,Rs = 510 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1024 , in = 512 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 511 ,Rm = 511 ,Rs = 511 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1026 , in = 513 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 512 ,Rm = 512 ,Rs = 512 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1028 , in = 514 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 513 ,Rm = 513 ,Rs = 513 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1030 , in = 515 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 514 ,Rm = 514 ,Rs = 514 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1032 , in = 516 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 515 ,Rm = 515 ,Rs = 515 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1034 , in = 517 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 516 ,Rm = 516 ,Rs = 516 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1036 , in = 518 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 517 ,Rm = 517 ,Rs = 517 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1038 , in = 519 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 518 ,Rm = 518 ,Rs = 518 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1040 , in = 520 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 519 ,Rm = 519 ,Rs = 519 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1042 , in = 521 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 520 ,Rm = 520 ,Rs = 520 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1044 , in = 522 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 521 ,Rm = 521 ,Rs = 521 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1046 , in = 523 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 522 ,Rm = 522 ,Rs = 522 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1048 , in = 524 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 523 ,Rm = 523 ,Rs = 523 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1050 , in = 525 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 524 ,Rm = 524 ,Rs = 524 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1052 , in = 526 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 525 ,Rm = 525 ,Rs = 525 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1054 , in = 527 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 526 ,Rm = 526 ,Rs = 526 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1056 , in = 528 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 527 ,Rm = 527 ,Rs = 527 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1058 , in = 529 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 528 ,Rm = 528 ,Rs = 528 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1060 , in = 530 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 529 ,Rm = 529 ,Rs = 529 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1062 , in = 531 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 530 ,Rm = 530 ,Rs = 530 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1064 , in = 532 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 531 ,Rm = 531 ,Rs = 531 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1066 , in = 533 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 532 ,Rm = 532 ,Rs = 532 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1068 , in = 534 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 533 ,Rm = 533 ,Rs = 533 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1070 , in = 535 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 534 ,Rm = 534 ,Rs = 534 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1072 , in = 536 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 535 ,Rm = 535 ,Rs = 535 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1074 , in = 537 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 536 ,Rm = 536 ,Rs = 536 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1076 , in = 538 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 537 ,Rm = 537 ,Rs = 537 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1078 , in = 539 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 538 ,Rm = 538 ,Rs = 538 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1080 , in = 540 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 539 ,Rm = 539 ,Rs = 539 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1082 , in = 541 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 540 ,Rm = 540 ,Rs = 540 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1084 , in = 542 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 541 ,Rm = 541 ,Rs = 541 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1086 , in = 543 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 542 ,Rm = 542 ,Rs = 542 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1088 , in = 544 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 543 ,Rm = 543 ,Rs = 543 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1090 , in = 545 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 544 ,Rm = 544 ,Rs = 544 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1092 , in = 546 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 545 ,Rm = 545 ,Rs = 545 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1094 , in = 547 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 546 ,Rm = 546 ,Rs = 546 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1096 , in = 548 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 547 ,Rm = 547 ,Rs = 547 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1098 , in = 549 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 548 ,Rm = 548 ,Rs = 548 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1100 , in = 550 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 549 ,Rm = 549 ,Rs = 549 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1102 , in = 551 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 550 ,Rm = 550 ,Rs = 550 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1104 , in = 552 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 551 ,Rm = 551 ,Rs = 551 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1106 , in = 553 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 552 ,Rm = 552 ,Rs = 552 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1108 , in = 554 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 553 ,Rm = 553 ,Rs = 553 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1110 , in = 555 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 554 ,Rm = 554 ,Rs = 554 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1112 , in = 556 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 555 ,Rm = 555 ,Rs = 555 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1114 , in = 557 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 556 ,Rm = 556 ,Rs = 556 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1116 , in = 558 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 557 ,Rm = 557 ,Rs = 557 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1118 , in = 559 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 558 ,Rm = 558 ,Rs = 558 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1120 , in = 560 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 559 ,Rm = 559 ,Rs = 559 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1122 , in = 561 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 560 ,Rm = 560 ,Rs = 560 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1124 , in = 562 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 561 ,Rm = 561 ,Rs = 561 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1126 , in = 563 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 562 ,Rm = 562 ,Rs = 562 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1128 , in = 564 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 563 ,Rm = 563 ,Rs = 563 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1130 , in = 565 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 564 ,Rm = 564 ,Rs = 564 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1132 , in = 566 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 565 ,Rm = 565 ,Rs = 565 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1134 , in = 567 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 566 ,Rm = 566 ,Rs = 566 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1136 , in = 568 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 567 ,Rm = 567 ,Rs = 567 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1138 , in = 569 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 568 ,Rm = 568 ,Rs = 568 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1140 , in = 570 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 569 ,Rm = 569 ,Rs = 569 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1142 , in = 571 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 570 ,Rm = 570 ,Rs = 570 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1144 , in = 572 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 571 ,Rm = 571 ,Rs = 571 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1146 , in = 573 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 572 ,Rm = 572 ,Rs = 572 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1148 , in = 574 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 573 ,Rm = 573 ,Rs = 573 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1150 , in = 575 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 574 ,Rm = 574 ,Rs = 574 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1152 , in = 576 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 575 ,Rm = 575 ,Rs = 575 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1154 , in = 577 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 576 ,Rm = 576 ,Rs = 576 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1156 , in = 578 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 577 ,Rm = 577 ,Rs = 577 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1158 , in = 579 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 578 ,Rm = 578 ,Rs = 578 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1160 , in = 580 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 579 ,Rm = 579 ,Rs = 579 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1162 , in = 581 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 580 ,Rm = 580 ,Rs = 580 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1164 , in = 582 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 581 ,Rm = 581 ,Rs = 581 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1166 , in = 583 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 582 ,Rm = 582 ,Rs = 582 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1168 , in = 584 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 583 ,Rm = 583 ,Rs = 583 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1170 , in = 585 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 584 ,Rm = 584 ,Rs = 584 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1172 , in = 586 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 585 ,Rm = 585 ,Rs = 585 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1174 , in = 587 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 586 ,Rm = 586 ,Rs = 586 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1176 , in = 588 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 587 ,Rm = 587 ,Rs = 587 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1178 , in = 589 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 588 ,Rm = 588 ,Rs = 588 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1180 , in = 590 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 589 ,Rm = 589 ,Rs = 589 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1182 , in = 591 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 590 ,Rm = 590 ,Rs = 590 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1184 , in = 592 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 591 ,Rm = 591 ,Rs = 591 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1186 , in = 593 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 592 ,Rm = 592 ,Rs = 592 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1188 , in = 594 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 593 ,Rm = 593 ,Rs = 593 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1190 , in = 595 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 594 ,Rm = 594 ,Rs = 594 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1192 , in = 596 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 595 ,Rm = 595 ,Rs = 595 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1194 , in = 597 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 596 ,Rm = 596 ,Rs = 596 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1196 , in = 598 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 597 ,Rm = 597 ,Rs = 597 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1198 , in = 599 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 598 ,Rm = 598 ,Rs = 598 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1200 , in = 600 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 599 ,Rm = 599 ,Rs = 599 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1202 , in = 601 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 600 ,Rm = 600 ,Rs = 600 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1204 , in = 602 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 601 ,Rm = 601 ,Rs = 601 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1206 , in = 603 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 602 ,Rm = 602 ,Rs = 602 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1208 , in = 604 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 603 ,Rm = 603 ,Rs = 603 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1210 , in = 605 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 604 ,Rm = 604 ,Rs = 604 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1212 , in = 606 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 605 ,Rm = 605 ,Rs = 605 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1214 , in = 607 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 606 ,Rm = 606 ,Rs = 606 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1216 , in = 608 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 607 ,Rm = 607 ,Rs = 607 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1218 , in = 609 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 608 ,Rm = 608 ,Rs = 608 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1220 , in = 610 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 609 ,Rm = 609 ,Rs = 609 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1222 , in = 611 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 610 ,Rm = 610 ,Rs = 610 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1224 , in = 612 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 611 ,Rm = 611 ,Rs = 611 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1226 , in = 613 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 612 ,Rm = 612 ,Rs = 612 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1228 , in = 614 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 613 ,Rm = 613 ,Rs = 613 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1230 , in = 615 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 614 ,Rm = 614 ,Rs = 614 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1232 , in = 616 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 615 ,Rm = 615 ,Rs = 615 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1234 , in = 617 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 616 ,Rm = 616 ,Rs = 616 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1236 , in = 618 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 617 ,Rm = 617 ,Rs = 617 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1238 , in = 619 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 618 ,Rm = 618 ,Rs = 618 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1240 , in = 620 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 619 ,Rm = 619 ,Rs = 619 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1242 , in = 621 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 620 ,Rm = 620 ,Rs = 620 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1244 , in = 622 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 621 ,Rm = 621 ,Rs = 621 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1246 , in = 623 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 622 ,Rm = 622 ,Rs = 622 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1248 , in = 624 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 623 ,Rm = 623 ,Rs = 623 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1250 , in = 625 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 624 ,Rm = 624 ,Rs = 624 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1252 , in = 626 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 625 ,Rm = 625 ,Rs = 625 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1254 , in = 627 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 626 ,Rm = 626 ,Rs = 626 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1256 , in = 628 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 627 ,Rm = 627 ,Rs = 627 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1258 , in = 629 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 628 ,Rm = 628 ,Rs = 628 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1260 , in = 630 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 629 ,Rm = 629 ,Rs = 629 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1262 , in = 631 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 630 ,Rm = 630 ,Rs = 630 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1264 , in = 632 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 631 ,Rm = 631 ,Rs = 631 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1266 , in = 633 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 632 ,Rm = 632 ,Rs = 632 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1268 , in = 634 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 633 ,Rm = 633 ,Rs = 633 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1270 , in = 635 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 634 ,Rm = 634 ,Rs = 634 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1272 , in = 636 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 635 ,Rm = 635 ,Rs = 635 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1274 , in = 637 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 636 ,Rm = 636 ,Rs = 636 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1276 , in = 638 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 637 ,Rm = 637 ,Rs = 637 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1278 , in = 639 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 638 ,Rm = 638 ,Rs = 638 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1280 , in = 640 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 639 ,Rm = 639 ,Rs = 639 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1282 , in = 641 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 640 ,Rm = 640 ,Rs = 640 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1284 , in = 642 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 641 ,Rm = 641 ,Rs = 641 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1286 , in = 643 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 642 ,Rm = 642 ,Rs = 642 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1288 , in = 644 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 643 ,Rm = 643 ,Rs = 643 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1290 , in = 645 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 644 ,Rm = 644 ,Rs = 644 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1292 , in = 646 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 645 ,Rm = 645 ,Rs = 645 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1294 , in = 647 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 646 ,Rm = 646 ,Rs = 646 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1296 , in = 648 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 647 ,Rm = 647 ,Rs = 647 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1298 , in = 649 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 648 ,Rm = 648 ,Rs = 648 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1300 , in = 650 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 649 ,Rm = 649 ,Rs = 649 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1302 , in = 651 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 650 ,Rm = 650 ,Rs = 650 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1304 , in = 652 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 651 ,Rm = 651 ,Rs = 651 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1306 , in = 653 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 652 ,Rm = 652 ,Rs = 652 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1308 , in = 654 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 653 ,Rm = 653 ,Rs = 653 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1310 , in = 655 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 654 ,Rm = 654 ,Rs = 654 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1312 , in = 656 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 655 ,Rm = 655 ,Rs = 655 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1314 , in = 657 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 656 ,Rm = 656 ,Rs = 656 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1316 , in = 658 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 657 ,Rm = 657 ,Rs = 657 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1318 , in = 659 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 658 ,Rm = 658 ,Rs = 658 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1320 , in = 660 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 659 ,Rm = 659 ,Rs = 659 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1322 , in = 661 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 660 ,Rm = 660 ,Rs = 660 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1324 , in = 662 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 661 ,Rm = 661 ,Rs = 661 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1326 , in = 663 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 662 ,Rm = 662 ,Rs = 662 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1328 , in = 664 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 663 ,Rm = 663 ,Rs = 663 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1330 , in = 665 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 664 ,Rm = 664 ,Rs = 664 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1332 , in = 666 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 665 ,Rm = 665 ,Rs = 665 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1334 , in = 667 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 666 ,Rm = 666 ,Rs = 666 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1336 , in = 668 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 667 ,Rm = 667 ,Rs = 667 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1338 , in = 669 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 668 ,Rm = 668 ,Rs = 668 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1340 , in = 670 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 669 ,Rm = 669 ,Rs = 669 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1342 , in = 671 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 670 ,Rm = 670 ,Rs = 670 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1344 , in = 672 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 671 ,Rm = 671 ,Rs = 671 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1346 , in = 673 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 672 ,Rm = 672 ,Rs = 672 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1348 , in = 674 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 673 ,Rm = 673 ,Rs = 673 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1350 , in = 675 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 674 ,Rm = 674 ,Rs = 674 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1352 , in = 676 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 675 ,Rm = 675 ,Rs = 675 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1354 , in = 677 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 676 ,Rm = 676 ,Rs = 676 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1356 , in = 678 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 677 ,Rm = 677 ,Rs = 677 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1358 , in = 679 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 678 ,Rm = 678 ,Rs = 678 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1360 , in = 680 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 679 ,Rm = 679 ,Rs = 679 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1362 , in = 681 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 680 ,Rm = 680 ,Rs = 680 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1364 , in = 682 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 681 ,Rm = 681 ,Rs = 681 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1366 , in = 683 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 682 ,Rm = 682 ,Rs = 682 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1368 , in = 684 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 683 ,Rm = 683 ,Rs = 683 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1370 , in = 685 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 684 ,Rm = 684 ,Rs = 684 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1372 , in = 686 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 685 ,Rm = 685 ,Rs = 685 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1374 , in = 687 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 686 ,Rm = 686 ,Rs = 686 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1376 , in = 688 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 687 ,Rm = 687 ,Rs = 687 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1378 , in = 689 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 688 ,Rm = 688 ,Rs = 688 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1380 , in = 690 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 689 ,Rm = 689 ,Rs = 689 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1382 , in = 691 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 690 ,Rm = 690 ,Rs = 690 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1384 , in = 692 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 691 ,Rm = 691 ,Rs = 691 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1386 , in = 693 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 692 ,Rm = 692 ,Rs = 692 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1388 , in = 694 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 693 ,Rm = 693 ,Rs = 693 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1390 , in = 695 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 694 ,Rm = 694 ,Rs = 694 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1392 , in = 696 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 695 ,Rm = 695 ,Rs = 695 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1394 , in = 697 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 696 ,Rm = 696 ,Rs = 696 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1396 , in = 698 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 697 ,Rm = 697 ,Rs = 697 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1398 , in = 699 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 698 ,Rm = 698 ,Rs = 698 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1400 , in = 700 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 699 ,Rm = 699 ,Rs = 699 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1402 , in = 701 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 700 ,Rm = 700 ,Rs = 700 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1404 , in = 702 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 701 ,Rm = 701 ,Rs = 701 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1406 , in = 703 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 702 ,Rm = 702 ,Rs = 702 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1408 , in = 704 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 703 ,Rm = 703 ,Rs = 703 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1410 , in = 705 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 704 ,Rm = 704 ,Rs = 704 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1412 , in = 706 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 705 ,Rm = 705 ,Rs = 705 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1414 , in = 707 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 706 ,Rm = 706 ,Rs = 706 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1416 , in = 708 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 707 ,Rm = 707 ,Rs = 707 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1418 , in = 709 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 708 ,Rm = 708 ,Rs = 708 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1420 , in = 710 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 709 ,Rm = 709 ,Rs = 709 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1422 , in = 711 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 710 ,Rm = 710 ,Rs = 710 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1424 , in = 712 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 711 ,Rm = 711 ,Rs = 711 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1426 , in = 713 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 712 ,Rm = 712 ,Rs = 712 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1428 , in = 714 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 713 ,Rm = 713 ,Rs = 713 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1430 , in = 715 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 714 ,Rm = 714 ,Rs = 714 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1432 , in = 716 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 715 ,Rm = 715 ,Rs = 715 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1434 , in = 717 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 716 ,Rm = 716 ,Rs = 716 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1436 , in = 718 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 717 ,Rm = 717 ,Rs = 717 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1438 , in = 719 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 718 ,Rm = 718 ,Rs = 718 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1440 , in = 720 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 719 ,Rm = 719 ,Rs = 719 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1442 , in = 721 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 720 ,Rm = 720 ,Rs = 720 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1444 , in = 722 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 721 ,Rm = 721 ,Rs = 721 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1446 , in = 723 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 722 ,Rm = 722 ,Rs = 722 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1448 , in = 724 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 723 ,Rm = 723 ,Rs = 723 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1450 , in = 725 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 724 ,Rm = 724 ,Rs = 724 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1452 , in = 726 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 725 ,Rm = 725 ,Rs = 725 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1454 , in = 727 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 726 ,Rm = 726 ,Rs = 726 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1456 , in = 728 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 727 ,Rm = 727 ,Rs = 727 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1458 , in = 729 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 728 ,Rm = 728 ,Rs = 728 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1460 , in = 730 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 729 ,Rm = 729 ,Rs = 729 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1462 , in = 731 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 730 ,Rm = 730 ,Rs = 730 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1464 , in = 732 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 731 ,Rm = 731 ,Rs = 731 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1466 , in = 733 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 732 ,Rm = 732 ,Rs = 732 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1468 , in = 734 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 733 ,Rm = 733 ,Rs = 733 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1470 , in = 735 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 734 ,Rm = 734 ,Rs = 734 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1472 , in = 736 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 735 ,Rm = 735 ,Rs = 735 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1474 , in = 737 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 736 ,Rm = 736 ,Rs = 736 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1476 , in = 738 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 737 ,Rm = 737 ,Rs = 737 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1478 , in = 739 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 738 ,Rm = 738 ,Rs = 738 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1480 , in = 740 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 739 ,Rm = 739 ,Rs = 739 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1482 , in = 741 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 740 ,Rm = 740 ,Rs = 740 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1484 , in = 742 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 741 ,Rm = 741 ,Rs = 741 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1486 , in = 743 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 742 ,Rm = 742 ,Rs = 742 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1488 , in = 744 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 743 ,Rm = 743 ,Rs = 743 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1490 , in = 745 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 744 ,Rm = 744 ,Rs = 744 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1492 , in = 746 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 745 ,Rm = 745 ,Rs = 745 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1494 , in = 747 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 746 ,Rm = 746 ,Rs = 746 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1496 , in = 748 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 747 ,Rm = 747 ,Rs = 747 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+LSL
+time = 1498 , in = 749 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 748 ,Rm = 748 ,Rs = 748 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
+Immediate Rm
+time = 1500 , in = 750 , LOADPC =   0 , LOAD =   1 , IR_CU =   1 , RSLCT = 00000, Rn = 749 ,Rm = 749 ,Rs = 749 ,PCout =   z,OP= 17;FLAGS=0; S=0000;ALU_OUT=1;1
