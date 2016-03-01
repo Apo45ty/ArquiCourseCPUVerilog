@@ -5,7 +5,6 @@ ARM CORE v8 CU Signal Analysis
 4) PCLOAD signal that tell the register file to stor the contends of in into R[15](pc)
 
 5) SRLOAD Loads a value into the Status Register
-6) SRSTORE stores value from the Status Register into bus
 7) OPCODE code that tells the ALU which operation to perform
 8) SREnabled Allows the ALU to alter the SREnabled
 9) ALUSTORE Allows the ALU to write to the bus
