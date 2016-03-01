@@ -17,3 +17,5 @@ ARM CORE v8 CU Signal Analysis
 15) MFA output signals that tell memory to comence processing transaction
 16) Read/Write Tell the memory whether to Read or Write to itself
 17) Word_Byte Tells the memory to send either a word or a byte
+
+

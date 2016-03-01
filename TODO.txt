@@ -3,6 +3,11 @@
 (Done) 3) crear test cases Multiplexers, Decoders, Registers(solo) and Register (16 at a time) 
 (Done) 4) crear test cases Register File que incluyan test de interconnecines entre el input y output. 
 (Done) 5) probar connectar el ALU
-6) Probar ALU y reg file con transmision de datos atraves del ALU y Barrel Shifter, Operaciones Atravez del ALU y
+(Done) 6) Probar ALU y reg file con transmision de datos atraves del ALU y Barrel Shifter, Operaciones Atravez del ALU
+ 7) Fix ASDM
+ 8) Finish CU trancisions and output signals
+	a) Data Processing
+	b) Load/Store
+	c) Branch
 ) Dise~ar memoria
 ) enviar print out al professor
