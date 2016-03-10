@@ -59,7 +59,7 @@ casez(OP)
   5'b00111:
 	begin 
 		_A = ~A+1;
-		{FLAGS_buff[1],buffer} <= B + A - !FLAGS[1];
+		{FLAGS_buff[1],buffer} <= B + _A - !FLAGS[1];
 	end
   //ORR, OUT = A or B
   5'b01100:buffer <= A | B;
