@@ -26,11 +26,11 @@ always @ (State, MFC)
 		3'b000 : if(!Reset)  NextState = 3'b001; else NextState = 3'b000;
 		3'b001 : NextState = 3'b010;
 		3'b010 : NextState = 3'b011;
-		3'b011 : if(!MFC) NextState = 3'b010; else NextState = 3'b011;
+		3'b011 : if(MFC) NextState = 3'b100; else NextState = 3'b011;
 		3'b100 : NextState = 3'b101;
 		3'b101 : 
 		begin
-			case(IR[31:28])
+			case(IR[31:28])//condition
 				4'b0000:
 					begin 
 						NextState = 3'b110;
@@ -42,7 +42,7 @@ always @ (State, MFC)
 		end
 		3'b110 :
 		begin
-			case(IR[24:21])
+			case(IR[24:21])//selcode
 				4'b0000:
 					begin 
 					  NextState = 3'b000;
@@ -57,10 +57,10 @@ always @ (State, MFC)
 always @ (State, MFC)
 	case (State)
 		3'b000 : begin  end
-		3'b001 : begin  end // send pc to mar: ircu = 1 cu = 1111,MARLOAD = 1
-		3'b010 : begin  end // increment pc : loadpc = 1 ircu = 1 cu = 1111 op = 17 
-		3'b011 : begin  end //  wait for MFC: MFA = 1 LOADIR = 1 read_write = 1 word_byte = 1
-		3'b100 : begin  end // transfer data to IR 
+		3'b001 : begin  IR_CU = 1; CU = 4'hf; MARLOAD =1; opcode = 16; end // send pc to mar: ircu = 1 cu = 1111,MARLOAD = 1
+		3'b010 : begin  IR_CU = 1 ; CU = 4'hf; opcode = 17; PCLOAD = 1; end // increment pc : loadpc = 1 ircu = 1 cu = 1111 op = 17 
+		3'b011 : begin  MFA = 1; READ_WRITE = 1; WORD_BYTE =1; end //  wait for MFC: MFA = 1 LOADIR = 1 read_write = 1 word_byte = 1
+		3'b100 : begin  MBRLOAD = 1; IRLOAD = 1; end // transfer data to IR 
 		3'b101 : begin  end // Check status codes 
 		3'b110 : begin  end // Decode instruction type and set out signals
 		/*branch and load_store instruction*/
