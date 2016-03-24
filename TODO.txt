@@ -4,19 +4,11 @@
 (Done) 4) crear test cases Register File que incluyan test de interconnecines entre el input y output. 
 (Done) 5) probar connectar el ALU
 (Done) 6) Probar ALU y reg file con transmision de datos atraves del ALU y Barrel Shifter, Operaciones Atravez del ALU
- 7) Fix ASDM
+(Working) 7) Fix ASDM
  8) Finish CU trancisions and output signals
-	a) Data Processing
-	b) Load/Store
+	(Done)a) Data Processing
+	b) Load/Store // is register immadiate offset sign extended the ir value
 	c) Branch
-
-TODO: 
-NOTE:No shifting
-* Control unit make an alu operation happen directly from the CU .
-* Load/Store operations.
-* Control unit Load/Store.
-* Dataprocessing 
-
  9) Producir se~ales de output del CU y monstrar que la unidad de control sigue la sequencia y envia las se~ales con el timing correcto. Enviar un ejemplo del CU.
 ) Dise~ar memoria, pipelining branch prediction , y ARM. DATA design and implementation.
 ) enviar print out al professor 

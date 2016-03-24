@@ -36,9 +36,26 @@ begin
 				shiftAmount = IR[11:8]*2;
 				shiftType = 2'b11;
 			end
+		3'b010:
+			begin//Imediate IR[7:0]
+				$display("Load/Store-Immediate Rm");
+				_Out = {IR[11],IR[11],IR[11],IR[11],IR[11],
+						IR[11],IR[11],IR[11],IR[11],IR[11],
+						IR[11],IR[11],IR[11],IR[11],IR[11],
+						IR[11],IR[11],IR[11],IR[11],IR[11],
+						IR[11:0]};
+			end
+		3'b011:
+			begin//Imediate IR[7:0]
+				$display("Load/Store-offsett/index Rm");
+				shiftVal = Rm;
+				shiftAmount =  IR[11:7];
+				shiftType = IR[6:5];
+			end
 		3'b101:
 			begin//branch 
 				$display("Branch");
+				_Out = 4*{IR[23],IR[23],IR[23],IR[23],IR[23],IR[23],IR[23],IR[23],IR[23],IR[23:0]};
 			end
 	endcase
 end

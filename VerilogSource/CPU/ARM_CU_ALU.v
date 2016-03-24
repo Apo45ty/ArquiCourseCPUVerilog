@@ -7,7 +7,7 @@ wire [3:0] CU;
 reg [19:0] RSLCT;
 wire [31:0] Rn,Rm,Rs,PCout,Out;
 wire [3:0] SRIN, _SRIN,SROUT;
-wire SR29_OUT;
+wire SR29_OUT,S;
 wire[31:0] _B;
 
 //ControlUnit (output reg IR_CU, RFLOAD, PCLOAD, SRLOAD, SRENABLED, ALUSTORE, MFA, WORD_BYTE,READ_WRITE,IRLOAD,MBRLOAD,MBRSTORE,MARLOAD,output reg[4:0] opcode, output[3:0] CU,  input MFC, Reset,Clk);
@@ -21,6 +21,7 @@ end
 //RegisterFile(input [31:0] in,Pcin,input [19:0] RSLCT,input Clk, RESET, LOADPC, LOAD,IR_CU, output [31:0] Rn,Rm,Rs,PCout);
 RegisterFile RF(Out,Out,RSLCT,Clk, Reset, PCLOAD, RFLOAD,IR_CU, Rn,Rm,Rs,PCout);
 
+//assign S = IR[20]&SRENABLED;
 assign _SRIN = {SROUT[3],SR29_OUT,SROUT[1],SROUT[0]};
 //ARM_ALU(input wire [31:0] A,B,input wire[4:0] OP,input wire [3:0] FLAGS,output wire [31:0] Out,output wire [3:0] FLAGS_OUT, input wire S,ALU_OUT,);
 ARM_ALU alu(Rn,_B, opcode, _SRIN, Out,SRIN,IR[20],ALUSTORE);

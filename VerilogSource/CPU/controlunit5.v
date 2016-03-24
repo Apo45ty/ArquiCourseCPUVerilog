@@ -2,19 +2,6 @@ module ControlUnit (output reg IR_CU, RFLOAD, PCLOAD, SRLOAD, SRENABLED, ALUSTOR
 
 reg [4:0] State, NextState;
 
-task registerTask;
-input [17:0] signals;
-//6 7 8 12 14 16 
-fork
-	//#2 set the alu signals
-	#2 {CU,IR_CU, RFLOAD, PCLOAD, SRLOAD,opcode, SRENABLED, ALUSTORE, MARLOAD,MBRSTORE,MBRLOAD,IRLOAD,MFA,READ_WRITE, WORD_BYTE} = {signals[17],1'b0,signals[15],1'b0,signals[13],1'b0,signals[11:9],1'b0,1'b0,1'b0,signals[5:0]};
-	//#4 set the register signals
-	#4 {CU,IR_CU, RFLOAD, PCLOAD, SRLOAD,opcode, SRENABLED, ALUSTORE, MARLOAD,MBRSTORE,MBRLOAD,IRLOAD,MFA,READ_WRITE, WORD_BYTE} = signals;
-	//#6 let data be saved
-	#6 {CU,IR_CU, RFLOAD, PCLOAD, SRLOAD,opcode, SRENABLED, ALUSTORE, MARLOAD,MBRSTORE,MBRLOAD,IRLOAD,MFA,READ_WRITE, WORD_BYTE} = signals;
-join
-endtask
-
 always @ (negedge Clk, posedge Reset)
 	if (Reset) begin 
 		State <= 5'b00001;ALUSTORE = 0 ; IR_CU= 0 ; RFLOAD= 0 ; PCLOAD= 0 ; SRLOAD= 0 ; SRENABLED= 0 ; MFA= 0 ; WORD_BYTE= 0 ;READ_WRITE= 0 ;IRLOAD= 0 ;MBRLOAD= 0 ;MBRSTORE= 0 ;MARLOAD = 0 ;CU=0; opcode=5'b10010;end
@@ -32,8 +19,8 @@ END
 always @ (State, MFC)
 	case (State)
 		5'b00000 : NextState = 5'b00000; 
-		5'b00001 : if(MFC) NextState = 5'b10001 ; else NextState = 5'b00010;
-		5'b00010 : NextState = 5'b00011; // goto stall cycle if not ready
+		5'b00001 : if(MFC) NextState = 5'b10001 ; else NextState = 5'b00010;// goto stall cycle if not ready
+		5'b00010 : NextState = 5'b00011; 
 		5'b00011 : if(MFC)NextState = 5'b00100; else  NextState = 5'b00011;
 		5'b00100 : NextState = 5'b00101;
 		5'b00101 : case(IR[31:28])//Decode Begin
@@ -60,15 +47,15 @@ always @ (State, MFC)
 						default:NextState = 5'b0001;
 				   endcase
 		5'b00111 : NextState = 5'b00001; // Data operation 1
-		5'b01000 : NextState = 5'b00001; //Load/Store operation 1 
-		5'b01001 : NextState = 5'b01010;
-		5'b01010 : NextState = 5'b01011;
-		5'b01011 : NextState = 5'b01100;
-		5'b01100 : NextState = 5'b01101;
-		5'b01101 : NextState = 5'b01110; 
+		5'b01000 : if(IR[24] == 0 & IR[0] ==0 ) NextState = 5'b01001; else if(IR[20]) NextState = 5'b01010;else NextState = 5'b01011; //Load/Store operation 1 
+		5'b01001 : if(IR[20]) NextState = 5'b01010;else NextState = 5'b01011; //Load/Store operation 2
+		5'b01010 : if(MFC) NextState = 5'b01100; else NextState = 5'b01010; //Load operation 1 
+		5'b01011 : NextState = 5'b01101; //Store operation 1 
+		5'b01100 : NextState = 5'b00001; //Load operation 2
+		5'b01101 : if(MFC) NextState = 5'b00001 ; else NextState = 5'b01101; //Store operation 2
 		5'b01110 : NextState = 5'b01111;
 		5'b01111 : NextState = 5'b10000;
-		5'b10000 : NextState = 5'b10001;
+		5'b10000 : NextState = 5'b00001;
 		5'b10001 : if(MFC) NextState = 5'b10001 ; else NextState = 5'b00010; // Stall State MFC Already Up
 	endcase 
 always @ (State, MFC)
@@ -81,12 +68,12 @@ always @ (State, MFC)
 		5'b00101 : begin  ALUSTORE = 1 ;IR_CU=1 ; RFLOAD= 0 ; PCLOAD= 0 ; SRLOAD= 0 ; SRENABLED= 0 ; MFA= 0 ; WORD_BYTE= 0 ;READ_WRITE= 0 ;IRLOAD= 0 ;MBRLOAD= 0 ;MBRSTORE= 0 ;MARLOAD = 0 ; CU=4'h0;end // Check status codes 
 		5'b00110 : begin  ALUSTORE = 0 ;IR_CU= 1 ; RFLOAD= 0 ; PCLOAD= 0 ; SRLOAD= 0 ; SRENABLED= 0 ; MFA= 0 ; WORD_BYTE= 0 ;READ_WRITE= 0 ;IRLOAD= 0 ;MBRLOAD= 0 ;MBRSTORE= 0 ;MARLOAD = 0 ;end // Decode instruction type and set out signals
 		5'b00111 : begin  ALUSTORE = 1 ;IR_CU= 1 ; RFLOAD= 1 ; PCLOAD= 0 ; SRLOAD= 0 ; SRENABLED= 0 ; MFA= 0 ; WORD_BYTE= 0 ;READ_WRITE= 0 ;IRLOAD= 0 ;MBRLOAD= 0 ;MBRSTORE= 0 ;MARLOAD = 0 ;opcode = {1'b0,IR[24:21]};end //Data Operation 1
-		5'b01000 : begin  end //Load/Store operation 1 
-		5'b01001 : begin  end 
-		5'b01010 : begin  end 
-		5'b01011 : begin  end 
-		5'b01100 : begin  end 
-		5'b01101 : begin  end 
+		5'b01000 : begin  ALUSTORE = 1 ;IR_CU= 1 ; RFLOAD= IR[21]==1&IR[24]==1 ? 1 : 0; PCLOAD= 0 ; SRLOAD= 0 ; SRENABLED= 0 ; MFA= 0 ; WORD_BYTE= 0 ;READ_WRITE= 0 ;IRLOAD= 0 ;MBRLOAD= 0 ;MBRSTORE= 0 ;MARLOAD = 1 ;opcode = IR[24] == 0 & IR[0] ==0 ? 5'b10010 : !IR[23] ? 5'b00100/*add*/:5'b00010 ; end //Load/Store operation 1 
+		5'b01001 : begin  ALUSTORE = 1 ;IR_CU= 1 ; RFLOAD=1; PCLOAD= 0 ; SRLOAD= 0 ; SRENABLED= 0 ; MFA= 0 ; WORD_BYTE= 0 ;READ_WRITE= 0 ;IRLOAD= 0 ;MBRLOAD= 0 ;MBRSTORE= 0 ;MARLOAD = 0 ;opcode =  !IR[23] ? 5'b00100/*add*/:5'b00010 ; end //Load/Store operation 1 
+		5'b01010 : begin  ALUSTORE = 0 ;IR_CU= 0 ; RFLOAD= 0 ; PCLOAD= 0 ; SRLOAD= 0 ; SRENABLED= 0 ; MFA= 1 ; WORD_BYTE= 1 ;READ_WRITE= 1 ;IRLOAD= 0 ;MBRLOAD= 0 ;MBRSTORE= 0 ;MARLOAD = 0 ;end //Load operation 1 
+		5'b01011 : begin  ALUSTORE = 1 ;IR_CU= 1 ; RFLOAD= 0 ; PCLOAD= 0 ; SRLOAD= 0 ; SRENABLED= 0 ; MFA= 0 ; WORD_BYTE= 0 ;READ_WRITE= 0 ;IRLOAD= 0 ;MBRLOAD= 1 ;MBRSTORE= 0 ;MARLOAD = 0 ; opcode=5'b10010; end //Store operation 1 
+		5'b01100 : begin  ALUSTORE = 0 ;IR_CU= 1 ; RFLOAD= 1 ; PCLOAD= 0 ; SRLOAD= 0 ; SRENABLED= 0 ; MFA= 0 ; WORD_BYTE= 0 ;READ_WRITE= 0 ;IRLOAD= 0 ;MBRLOAD= 0 ;MBRSTORE= 1 ;MARLOAD = 0 ;end //Load operation 2  
+		5'b01101 : begin  ALUSTORE = 0 ;IR_CU= 0 ; RFLOAD= 0 ; PCLOAD= 0 ; SRLOAD= 0 ; SRENABLED= 0 ; MFA= 1 ; WORD_BYTE= 1 ;READ_WRITE= 0 ;IRLOAD= 0 ;MBRLOAD= 0 ;MBRSTORE= 0 ;MARLOAD = 0 ;end //Load operation 1 end 
 		5'b01110 : begin  end 
 		5'b01111 : begin  end 
 		5'b10000 : begin  end 
