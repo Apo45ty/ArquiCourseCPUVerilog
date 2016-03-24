@@ -13,7 +13,7 @@ WE FETCH INSTRUCTIONS 8BITS AT A TIME 8BIT DATAPATH
 28. Overflow, V = OVERFLOW
 END
 */
-always @(*)
+always @(A or B or OP)
 begin
 FLAGS_buff=4'h0;
 _A=A;
@@ -75,14 +75,16 @@ casez(OP)
 		buffer <= ~ B;
 		//$display("B=%3h,~B=%3h",B,~B);
 	end
-  //BYPASS
+  //BYPASS B
   5'b10000:buffer <= B;
   //add 4 A
   5'b10001:buffer <= A + 1;
+  //BYPASS A
+  5'b10010,5'b01101:buffer <= A;
 endcase
 end
   
-always@(*)
+always@(buffer or _A or _B or OP )
 begin
   FLAGS_buff[3] = buffer[31];
   FLAGS_buff[2] = buffer == 32'h0;

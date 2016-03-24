@@ -1,4 +1,4 @@
-module ARM_CU_ALU( input MFC , Reset , Clk , MEMSTORE,MEMLOAD,MEMDAT, output MEMADD, MFA,READ_WRITE,WORD_BYTE);
+module ARM_CU_ALU( input MFC , Reset , Clk , MEMSTORE,MEMLOAD, input [31:0] MEMDAT, output [7:0] MEMADD, output MFA,READ_WRITE,WORD_BYTE);
 
 wire[31:0] IR;
 wire IR_CU,  RFLOAD,  PCLOAD,  SRLOAD,  SRENABLED,  ALUSTORE,  MFA,  WORD_BYTE, READ_WRITE, IRLOAD, MBRLOAD, MBRSTORE, MARLOAD;
@@ -15,7 +15,7 @@ ControlUnit cu(IR_CU,  RFLOAD,  PCLOAD,  SRLOAD,  SRENABLED,  ALUSTORE,  MFA,  W
 
 always@(IR or CU)
 begin
-	RSLCT = {CU,IR[15:8],IR[3:1], IR[19:16]};
+	RSLCT = {CU,IR[15:8],IR[3:0], IR[19:16]};
 end
 
 //RegisterFile(input [31:0] in,Pcin,input [19:0] RSLCT,input Clk, RESET, LOADPC, LOAD,IR_CU, output [31:0] Rn,Rm,Rs,PCout);
@@ -46,14 +46,14 @@ Register2Buff register(
 			  .Load(MBRLOAD),
 			  .Load2(MEMLOAD),
 			  .Store(MBRSTORE),
-			  .Store2(MEMLOAD));
+			  .Store2(MEMSTORE));
 
 //MAR
 //module Register(input [31:0] IN,input Clk, Reset,Load,output [31:0] OUT);
 Register MAR( .IN(Out),
 			  .Clk(Clk),
 			  .Reset(Reset),
-			  .Load(IRLOAD),
+			  .Load(MARLOAD),
 			  .OUT(MEMADD));
 //SR
 //module Register(input [31:0] IN,input Clk, Reset,Load,output [31:0] OUT);
@@ -65,4 +65,4 @@ Register SR( .IN(SRIN),
 
 			  
 endmodule
-//iverilog ARM_ALU.v BarrelShifter.v Buffer32_32.v controlunit.v  Decoder4x16.v Multiplexer2x1_32b.v Register.v Register2.v RegisterFile.v Register2Buff.v ARM_CU_ALU.v
+//iverilog ARM_ALU.v BarrelShifter.v Buffer32_32.v controlunit2.v  Decoder4x16.v Multiplexer2x1_32b.v Register.v Register2.v RegisterFile.v Register2Buff.v ARM_CU_ALU.v

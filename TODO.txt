@@ -19,4 +19,4 @@ NOTE:No shifting
 
  9) Producir se~ales de output del CU y monstrar que la unidad de control sigue la sequencia y envia las se~ales con el timing correcto. Enviar un ejemplo del CU.
 ) Dise~ar memoria, pipelining branch prediction , y ARM. DATA design and implementation.
-) enviar print out al professor
+) enviar print out al professor 

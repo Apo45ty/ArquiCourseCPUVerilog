@@ -75,10 +75,12 @@ casez(OP)
 		buffer <= ~ B;
 		//$display("B=%3h,~B=%3h",B,~B);
 	end
-  //BYPASS
+  //BYPASS B
   5'b10000:buffer <= B;
   //add 4 A
   5'b10001:buffer <= A + 1;
+  //BYPASS A
+  5'b10010,5'b01101:buffer <= A;
 endcase
 end
   
