@@ -16,6 +16,7 @@ ARM_CU_ALU CPU( MFC , Reset , Clk , MEMSTORE,MEMLOAD,MEMDAT,MEMADD, MFA,READ_WRI
 initial fork
 	Reset =1; Clk = 0; MEMSTORE=0;MEMLOAD=0;
 	#1 Reset = 0;
+	#(sim_time-1) Reset = 1;
 join
 
 always@(*) begin

@@ -26,8 +26,14 @@ integer i;
 integer   fd, code, index;
 reg [7:0] data[3:0];
 
-initial begin 
-	$display("Loading test program to RAM...");
+always@(posedge Reset) begin 
+	$display("Dumping ROM...");
+	index = 0;
+	while (index < 255) begin
+		$display("%d Memory Content Binary=%b Decimal=%d,Hex=%h",index,Mem[index],Mem[index],Mem[index]);
+		index = index + 1;
+	end
+	$display("Loading test program to ROM...");
 	fd = $fopen("memory.dat","r"); 
 	index = 0;
 	while (!($feof(fd))) begin
@@ -44,7 +50,7 @@ initial begin
 		index = index + 1;
 	end
   	$fclose(fd);
-  	$display("Test Program loaded in RAM...");
+  	$display("Test Program loaded in ROM...");
 	$display("Memory");
 	index = 0;
 	while (index < 255) begin
