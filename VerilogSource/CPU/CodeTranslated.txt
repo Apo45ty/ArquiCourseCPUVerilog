@@ -1,0 +1,12 @@
+               0       AND R0,R1, #0              //Clear R0
+               4       OR R1,R0, #40              //Set R1 to numbers address
+               8       LDRB R2, [R1,R0]          //Load multiplicand
+               12    LDRB R3, [R1, #2]         //Load multiplier
+               16    ADD R5,R0,R0               //Clear R5
+Loop       20    ADD R5,R2,R5               //Add R2 and R5 cumulative
+               24    SUBS R3,R3, #1             //Subtract multiplier
+               28    BNE Loop                      //Repeat iteration
+               32    STRB R5, [R1,#3]          //Store result
+               36    B End                             //Branch to Loc 44
+               40   
+End        44    B End                             //Endless loop
