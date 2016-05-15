@@ -1,0 +1,5 @@
+1. Arreglar el MEM para que lea bytes y data correctamente
+2. Arreglar glitch con BS y alu
+3.(Done) Arreglar los flags
+4. Misterious "8"
+5. 1030am Examen

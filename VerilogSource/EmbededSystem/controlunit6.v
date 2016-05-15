@@ -52,7 +52,7 @@ always @ (State, MFC)
 		5'b01010 : if(MFC) NextState = 5'b01100; else NextState = 5'b01010; //Load operation 1 
 		5'b01011 : NextState = 5'b01101; //Store operation 1 
 		5'b01100 : NextState = 5'b00001; //Load operation 2
-		5'b01101 : if(MFC) NextState = 5'b00001 ; else NextState = 5'b01101; //Store operation 2
+		5'b01101 : if(!MFC) NextState = 5'b00001 ; else NextState = 5'b01101; //Store operation 2
 		5'b01110 : NextState = 5'b00001;//Branch operation 1
 		5'b01111 : NextState = 5'b10000; // Empty state
 		5'b10000 : NextState = 5'b00001; // Empty state
@@ -70,10 +70,10 @@ always @ (State, MFC)
 		5'b00111 : begin  ALUSTORE = 1 ;IR_CU= 1 ; RFLOAD= 1 ; PCLOAD= 0 ; SRLOAD= 0 ; SRENABLED= 0 ; MFA= 0 ; WORD_BYTE= 0 ;READ_WRITE= 0 ;IRLOAD= 0 ;MBRLOAD= 0 ;MBRSTORE= 0 ;MARLOAD = 0 ;opcode = {1'b0,IR[24:21]};end //Data Operation 1
 		5'b01000 : begin  ALUSTORE = 1 ;IR_CU= 1 ; RFLOAD= IR[21]==1&IR[24]==1 ? 1 : 0; PCLOAD= 0 ; SRLOAD= 0 ; SRENABLED= 0 ; MFA= 0 ; WORD_BYTE= 0 ;READ_WRITE= 0 ;IRLOAD= 0 ;MBRLOAD= 0 ;MBRSTORE= 0 ;MARLOAD = 1 ;opcode = IR[24] == 0 & IR[0] ==0 ? 5'b10010 : IR[23] ? 5'b00100/*add*/:5'b00010 ; end //Load/Store operation 1 
 		5'b01001 : begin  ALUSTORE = 1 ;IR_CU= 1 ; RFLOAD=1; PCLOAD= 0 ; SRLOAD= 0 ; SRENABLED= 0 ; MFA= 0 ; WORD_BYTE= 0 ;READ_WRITE= 0 ;IRLOAD= 0 ;MBRLOAD= 0 ;MBRSTORE= 0 ;MARLOAD = 0 ;opcode =  IR[23] ? 5'b00100/*add*/:5'b00010 ; end //Load/Store operation 1 
-		5'b01010 : begin  ALUSTORE = 0 ;IR_CU= 0 ; RFLOAD= 0 ; PCLOAD= 0 ; SRLOAD= 0 ; SRENABLED= 0 ; MFA= 1 ; WORD_BYTE= 1 ;READ_WRITE= 1 ;IRLOAD= 0 ;MBRLOAD= 0 ;MBRSTORE= 0 ;MARLOAD = 0 ;end //Load operation 1 
-		5'b01011 : begin  ALUSTORE = 1 ;IR_CU= 1 ; RFLOAD= 0 ; PCLOAD= 0 ; SRLOAD= 0 ; SRENABLED= 0 ; MFA= 0 ; WORD_BYTE= 0 ;READ_WRITE= 0 ;IRLOAD= 0 ;MBRLOAD= 1 ;MBRSTORE= 0 ;MARLOAD = 0 ; opcode=5'b10010; end //Store operation 1 
-		5'b01100 : begin  ALUSTORE = 0 ;IR_CU= 1 ; RFLOAD= 1 ; PCLOAD= 0 ; SRLOAD= 0 ; SRENABLED= 0 ; MFA= 0 ; WORD_BYTE= 0 ;READ_WRITE= 0 ;IRLOAD= 0 ;MBRLOAD= 0 ;MBRSTORE= 1 ;MARLOAD = 0 ;end //Load operation 2  
-		5'b01101 : begin  ALUSTORE = 0 ;IR_CU= 0 ; RFLOAD= 0 ; PCLOAD= 0 ; SRLOAD= 0 ; SRENABLED= 0 ; MFA= 1 ; WORD_BYTE= 1 ;READ_WRITE= 0 ;IRLOAD= 0 ;MBRLOAD= 0 ;MBRSTORE= 0 ;MARLOAD = 0 ;end //Load operation 1 end 
+		5'b01010 : begin  ALUSTORE = 0 ;IR_CU= 0 ; RFLOAD= 0 ; PCLOAD= 0 ; SRLOAD= 0 ; SRENABLED= 0 ; MFA= 1 ; WORD_BYTE= IR[22] ;READ_WRITE= 1 ;IRLOAD= 0 ;MBRLOAD= 0 ;MBRSTORE= 0 ;MARLOAD = 0 ;end //Load operation 1 
+		5'b01011 : begin  ALUSTORE = 1 ;IR_CU= 1 ; RFLOAD= 0 ; PCLOAD= 0 ; SRLOAD= 0 ; SRENABLED= 0 ; MFA= 0 ; WORD_BYTE= IR[22] ;READ_WRITE= 0 ;IRLOAD= 0 ;MBRLOAD= 1 ;MBRSTORE= 0 ;MARLOAD = 0 ; opcode=5'b10010; end //Store operation 1 
+		5'b01100 : begin  ALUSTORE = 0 ;IR_CU= 1 ; RFLOAD= 1 ; PCLOAD= 0 ; SRLOAD= 0 ; SRENABLED= 0 ; MFA= 0 ; WORD_BYTE= IR[22] ;READ_WRITE= 0 ;IRLOAD= 0 ;MBRLOAD= 0 ;MBRSTORE= 1 ;MARLOAD = 0 ;end //Load operation 2  
+		5'b01101 : begin  ALUSTORE = 0 ;IR_CU= 0 ; RFLOAD= 0 ; PCLOAD= 0 ; SRLOAD= 0 ; SRENABLED= 0 ; MFA= 1 ; #1  MFA= 0 ; WORD_BYTE= IR[22] ;READ_WRITE= 0 ;IRLOAD= 0 ;MBRLOAD= 0 ;MBRSTORE= 0 ;MARLOAD = 0 ;end //Store Operation 2
 		5'b01110 : begin  ALUSTORE = 1 ;IR_CU= 0 ; RFLOAD= 0 ; PCLOAD= 1 ; SRLOAD= 0 ; SRENABLED= 0 ; MFA= 0 ; WORD_BYTE= 0 ;READ_WRITE= 0 ;IRLOAD= 0 ;MBRLOAD= 0 ;MBRSTORE= 0 ;MARLOAD = 0 ; CU=4'hf;opcode=5'b00100;end //Branch operation 1
 		5'b01111 : begin  end 
 		5'b10000 : begin  end 

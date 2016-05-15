@@ -22,13 +22,13 @@ end
 RegisterFile RF(Out,Out,RSLCT,Clk, Reset, PCLOAD, RFLOAD,IR_CU, Rn,Rm,Rs,PCout);
 
 //assign S = IR[20]&SRENABLED;
-assign _SRIN = {SROUT[3],SR29_OUT,SROUT[1],SROUT[0]};
+assign _SRIN = {SROUT[3],SROUT[2],SR29_OUT,SROUT[0]};
 //ARM_ALU(input wire [31:0] A,B,input wire[4:0] OP,input wire [3:0] FLAGS,output wire [31:0] Out,output wire [3:0] FLAGS_OUT, input wire S,ALU_OUT,);
 ARM_ALU alu(Rn,_B, opcode, _SRIN, Out,SRIN,IR[20],ALUSTORE);
 
 
 //BarrelShifter(input [31] Rs,Rm,IR,input SR29_IN,output SR29_OUT,output [31:0] Out);
-BarrelShifter bs(Rs,Rm,IR,SROUT[3],SR29_OUT,_B);
+BarrelShifter bs(Rs,Rm,IR,SROUT[1],SR29_OUT,_B);
 
 //IR
 //module Register(input [31:0] IN,input Clk, Reset,Load,output [31:0] OUT);

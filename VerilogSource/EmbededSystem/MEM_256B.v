@@ -73,7 +73,7 @@ if(MFA) begin
 //------Byte------	
 	  if(!wordByte) begin
 		$display("Store a byte");
-		Mem[Address] = dataByte[3];
+		Mem[Address] <= dataByte[3];
 		Mem[Address+1] <= 8'b0;
 		Mem[Address+2] <= 8'b0;
 		Mem[Address+3] <= 8'b0;
@@ -82,12 +82,11 @@ if(MFA) begin
 		end
 //------Word------
 	  else begin
-			$display("Store a word");
-			tempAddress = Address;
-			for(i = 0; i <= 3; i = i + 1) begin
-				Mem[tempAddress] = dataByte[i];
-				tempAddress = tempAddress + 1;
-			end
+		$display("Store a word");
+		Mem[Address] <= dataByte[3];
+		Mem[Address+1] <= dataByte[2];
+		Mem[Address+2] <= dataByte[1];
+		Mem[Address+3] <= dataByte[0];
 		$display("Mem[Address]: %h", Mem[Address]);	
 		$display("Mem[Address+1]: %h", Mem[Address+1]);	
 		$display("Mem[Address+2]: %h", Mem[Address+2]);	

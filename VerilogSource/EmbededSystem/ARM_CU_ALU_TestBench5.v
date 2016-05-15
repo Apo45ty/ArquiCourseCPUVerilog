@@ -1,6 +1,6 @@
 module ARM_CU_ALU_TestBench5;
 
-parameter sim_time = 750*2; // Num of Cycles * 2 
+parameter sim_time = 2000*2; // Num of Cycles * 2 
 
 reg Reset , Clk , MEMSTORE,MEMLOAD;
 wire [31:0] MEMDAT;
@@ -16,7 +16,7 @@ ARM_CU_ALU CPU( MFC , Reset , Clk , MEMSTORE,MEMLOAD,MEMDAT,MEMADD, MFA,READ_WRI
 initial fork
 	Reset =1; Clk = 0; MEMSTORE=0;MEMLOAD=0;
 	#1 Reset = 0;
-	#(sim_time-1) Reset = 1;
+	#(sim_time-1) Reset = 1; // print out memory before stopping simulation
 join
 
 always@(*) begin
