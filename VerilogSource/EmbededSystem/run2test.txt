@@ -707,7 +707,15 @@ ROR
 [ 31]=[ 31]
 [ 32]=[ 32]
 Imediate IR[7:0]
-Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -742,16 +750,42 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  28
-MEMADD =  28
-Branch
-Branch
-Branch
 MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
@@ -806,7 +840,16 @@ ROR
 [ 31]=[ 31]
 [ 32]=[ 32]
 Imediate IR[7:0]
-Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -841,7 +884,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -876,16 +920,6 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  28
-MEMADD =  28
-Branch
-Branch
-Branch
-MEMADD =  20
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
@@ -940,7 +974,15 @@ ROR
 [ 31]=[ 31]
 [ 32]=[ 32]
 Imediate IR[7:0]
-Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -975,7 +1017,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -1010,16 +1053,6 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  28
-MEMADD =  28
-Branch
-Branch
-Branch
-MEMADD =  20
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
@@ -1073,8 +1106,17 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
 Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -1109,7 +1151,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -1144,16 +1187,6 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  28
-MEMADD =  28
-Branch
-Branch
-Branch
-MEMADD =  20
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
@@ -1207,8 +1240,16 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
 Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -1243,7 +1284,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -1278,16 +1320,6 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  28
-MEMADD =  28
-Branch
-Branch
-Branch
-MEMADD =  20
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
@@ -1342,7 +1374,16 @@ ROR
 [ 31]=[ 31]
 [ 32]=[ 32]
 Imediate IR[7:0]
-Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -1377,7 +1418,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -1412,16 +1454,6 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  28
-MEMADD =  28
-Branch
-Branch
-Branch
-MEMADD =  20
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
@@ -1476,7 +1508,15 @@ ROR
 [ 31]=[ 31]
 [ 32]=[ 32]
 Imediate IR[7:0]
-Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -1511,7 +1551,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -1546,7 +1587,24 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
 Imediate IR[7:0]
 ROR
 [  0]=[  0]
@@ -1582,60 +1640,17 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
 MEMADD =  28
 MEMADD =  28
 Branch
-Branch
-MEMADD =  32
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  32
 Branch
-MEMADD =  32
-Load/Store-Immediate Rm
-Load/Store-Immediate Rm
-MEMADD =  43
-Memory Function Active
-Memory Function Complete: 0
-Store a byte
-Storing Least significant byte 28 in address  43
-Mem[Address]: 04
-Memory Function Complete: 0
-Memory Function Active
-Memory Function Complete: 0
-Store a word
-Mem[Address]: 28
-Mem[Address+1]: 00
-Mem[Address+2]: 00
-Mem[Address+3]: 00
-Memory Function Complete: 0
-Memory Function Active
-Memory Function Complete: 0
-Store a word
-Mem[Address]: 28
-Mem[Address+1]: 00
-Mem[Address+2]: 00
-Mem[Address+3]: 00
-Memory Function Complete: 0
-MEMADD =  36
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  36
-MEMADD =  36
 Branch
 Branch
-MEMADD =  44
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  44
-MEMADD =  44
-Registe rm
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -1670,7 +1685,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Registe rm
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -1705,12 +1721,25 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  48
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD =  48
-Registe rm
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -1745,326 +1774,16 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  48
-Immediate Rm
-LSL
-Immediate Rm
-LSL
-MEMADD =  52
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  52
-MEMADD =  52
-MEMADD =  56
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  56
-MEMADD =  56
-MEMADD =  60
+Imediate IR[7:0]
+MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  60
-MEMADD =  60
-MEMADD =  64
-Memory Function Active
 Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  64
-MEMADD =  64
-MEMADD =  68
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  68
-MEMADD =  68
-MEMADD =  72
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  72
-MEMADD =  72
-MEMADD =  76
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  76
-MEMADD =  76
-MEMADD =  80
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  80
-MEMADD =  80
-MEMADD =  84
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  84
-MEMADD =  84
-MEMADD =  88
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  88
-MEMADD =  88
-MEMADD =  92
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  92
-MEMADD =  92
-MEMADD =  96
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  96
-MEMADD =  96
-MEMADD = 100
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 100
-MEMADD = 100
-MEMADD = 104
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 104
-MEMADD = 104
-MEMADD = 108
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 108
-MEMADD = 108
-MEMADD = 112
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 112
-MEMADD = 112
-MEMADD = 116
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 116
-MEMADD = 116
-MEMADD = 120
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 120
-MEMADD = 120
-MEMADD = 124
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 124
-MEMADD = 124
-MEMADD = 128
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 128
-MEMADD = 128
-MEMADD = 132
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 132
-MEMADD = 132
-MEMADD = 136
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 136
-MEMADD = 136
-MEMADD = 140
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 140
-MEMADD = 140
-MEMADD = 144
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 144
-MEMADD = 144
-MEMADD = 148
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 148
-MEMADD = 148
-MEMADD = 152
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 152
-MEMADD = 152
-MEMADD = 156
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 156
-MEMADD = 156
-MEMADD = 160
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 160
-MEMADD = 160
-MEMADD = 164
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 164
-MEMADD = 164
-MEMADD = 168
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 168
-MEMADD = 168
-MEMADD = 172
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 172
-MEMADD = 172
-MEMADD = 176
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 176
-MEMADD = 176
-MEMADD = 180
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 180
-MEMADD = 180
-MEMADD = 184
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 184
-MEMADD = 184
-MEMADD = 188
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 188
-MEMADD = 188
-MEMADD = 192
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 192
-MEMADD = 192
-MEMADD = 196
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 196
-MEMADD = 196
-MEMADD = 200
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 200
-MEMADD = 200
-MEMADD = 204
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 204
-MEMADD = 204
-MEMADD = 208
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 208
-MEMADD = 208
-MEMADD = 212
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 212
-MEMADD = 212
-MEMADD = 216
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 216
-MEMADD = 216
-MEMADD = 220
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 220
-MEMADD = 220
-MEMADD = 224
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 224
-MEMADD = 224
-MEMADD = 228
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 228
-MEMADD = 228
-MEMADD = 232
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 232
-MEMADD = 232
-MEMADD = 236
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 236
-MEMADD = 236
-MEMADD = 240
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 240
-MEMADD = 240
-MEMADD = 244
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 244
-MEMADD = 244
-MEMADD = 248
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 248
-MEMADD = 248
-MEMADD = 252
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 252
-MEMADD = 252
-Registe rm
-Registe rm
-MEMADD =   0
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =   0
-MEMADD =   0
-Imediate IR[7:0]
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -2099,14 +1818,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
-MEMADD =   4
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =   4
-MEMADD =   4
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -2141,54 +1854,16 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
-MEMADD =   8
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =   8
-MEMADD =   8
-Load/Store-offsett/index Rm
-LSL
-Load/Store-offsett/index Rm
-MEMADD =  40
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  40
-MEMADD =  40
-MEMADD =  12
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  12
-MEMADD =  12
-Load/Store-Immediate Rm
-Load/Store-Immediate Rm
-MEMADD =  42
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  42
-MEMADD =  42
-MEMADD =  16
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  16
-MEMADD =  16
-Immediate Rm
-LSL
-Immediate Rm
-LSL
-MEMADD =  20
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
 MEMADD =  20
+Branch
 MEMADD =  20
 Immediate Rm
+LSL
 Immediate Rm
+LSL
 Immediate Rm
 LSL
 MEMADD =  24
@@ -2232,8 +1907,17 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
 Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -2268,16 +1952,42 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  28
-MEMADD =  28
-Branch
-Branch
-Branch
 MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
@@ -2332,7 +2042,15 @@ ROR
 [ 31]=[ 31]
 [ 32]=[ 32]
 Imediate IR[7:0]
-Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -2367,7 +2085,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -2402,22 +2121,12 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD =  28
-MEMADD =  28
-Branch
-Branch
+MEMADD =  20
 Branch
 MEMADD =  20
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  20
-Branch
-MEMADD =  20
 Immediate Rm
 LSL
 Immediate Rm
@@ -2466,7 +2175,16 @@ ROR
 [ 31]=[ 31]
 [ 32]=[ 32]
 Imediate IR[7:0]
-Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -2501,7 +2219,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -2536,16 +2255,6 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  28
-MEMADD =  28
-Branch
-Branch
-Branch
-MEMADD =  20
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
@@ -2600,7 +2309,15 @@ ROR
 [ 31]=[ 31]
 [ 32]=[ 32]
 Imediate IR[7:0]
-Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -2635,7 +2352,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -2670,16 +2388,6 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  28
-MEMADD =  28
-Branch
-Branch
-Branch
-MEMADD =  20
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
@@ -2733,8 +2441,17 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
 Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -2769,7 +2486,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -2804,16 +2522,6 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  28
-MEMADD =  28
-Branch
-Branch
-Branch
-MEMADD =  20
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
@@ -2867,8 +2575,16 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
 Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -2903,7 +2619,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -2938,16 +2655,6 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  28
-MEMADD =  28
-Branch
-Branch
-Branch
-MEMADD =  20
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
@@ -3002,7 +2709,16 @@ ROR
 [ 31]=[ 31]
 [ 32]=[ 32]
 Imediate IR[7:0]
-Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -3037,7 +2753,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -3072,7 +2789,24 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
 Imediate IR[7:0]
 ROR
 [  0]=[  0]
@@ -3108,6 +2842,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
@@ -3115,53 +2851,96 @@ MEMADD =  28
 MEMADD =  28
 Branch
 Branch
-MEMADD =  32
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  32
 Branch
-MEMADD =  32
-Load/Store-Immediate Rm
-Load/Store-Immediate Rm
-MEMADD =  43
-Memory Function Active
-Memory Function Complete: 0
-Store a byte
-Storing Least significant byte 28 in address  43
-Mem[Address]: 28
-Memory Function Complete: 0
-Memory Function Active
-Memory Function Complete: 0
-Store a word
-Mem[Address]: 28
-Mem[Address+1]: 00
-Mem[Address+2]: 00
-Mem[Address+3]: 00
-Memory Function Complete: 0
-Memory Function Active
-Memory Function Complete: 0
-Store a word
-Mem[Address]: 28
-Mem[Address+1]: 00
-Mem[Address+2]: 00
-Mem[Address+3]: 00
-Memory Function Complete: 0
-MEMADD =  36
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD =  36
-MEMADD =  36
-Branch
+MEMADD =  20
 Branch
-MEMADD =  44
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD =  44
-MEMADD =  44
-Registe rm
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -3196,7 +2975,17 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Registe rm
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -3231,12 +3020,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  48
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  48
-Registe rm
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -3271,325 +3056,24 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  48
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
 Immediate Rm
 LSL
 Immediate Rm
 LSL
-MEMADD =  52
+Immediate Rm
+LSL
+MEMADD =  24
 Memory Function Active
 Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  52
-MEMADD =  52
-MEMADD =  56
-Memory Function Active
 Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  56
-MEMADD =  56
-MEMADD =  60
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  60
-MEMADD =  60
-MEMADD =  64
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  64
-MEMADD =  64
-MEMADD =  68
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  68
-MEMADD =  68
-MEMADD =  72
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  72
-MEMADD =  72
-MEMADD =  76
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  76
-MEMADD =  76
-MEMADD =  80
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  80
-MEMADD =  80
-MEMADD =  84
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  84
-MEMADD =  84
-MEMADD =  88
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  88
-MEMADD =  88
-MEMADD =  92
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  92
-MEMADD =  92
-MEMADD =  96
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  96
-MEMADD =  96
-MEMADD = 100
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 100
-MEMADD = 100
-MEMADD = 104
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 104
-MEMADD = 104
-MEMADD = 108
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 108
-MEMADD = 108
-MEMADD = 112
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 112
-MEMADD = 112
-MEMADD = 116
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 116
-MEMADD = 116
-MEMADD = 120
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 120
-MEMADD = 120
-MEMADD = 124
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 124
-MEMADD = 124
-MEMADD = 128
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 128
-MEMADD = 128
-MEMADD = 132
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 132
-MEMADD = 132
-MEMADD = 136
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 136
-MEMADD = 136
-MEMADD = 140
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 140
-MEMADD = 140
-MEMADD = 144
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 144
-MEMADD = 144
-MEMADD = 148
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 148
-MEMADD = 148
-MEMADD = 152
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 152
-MEMADD = 152
-MEMADD = 156
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 156
-MEMADD = 156
-MEMADD = 160
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 160
-MEMADD = 160
-MEMADD = 164
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 164
-MEMADD = 164
-MEMADD = 168
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 168
-MEMADD = 168
-MEMADD = 172
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 172
-MEMADD = 172
-MEMADD = 176
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 176
-MEMADD = 176
-MEMADD = 180
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 180
-MEMADD = 180
-MEMADD = 184
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 184
-MEMADD = 184
-MEMADD = 188
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 188
-MEMADD = 188
-MEMADD = 192
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 192
-MEMADD = 192
-MEMADD = 196
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 196
-MEMADD = 196
-MEMADD = 200
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 200
-MEMADD = 200
-MEMADD = 204
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 204
-MEMADD = 204
-MEMADD = 208
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 208
-MEMADD = 208
-MEMADD = 212
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 212
-MEMADD = 212
-MEMADD = 216
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 216
-MEMADD = 216
-MEMADD = 220
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 220
-MEMADD = 220
-MEMADD = 224
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 224
-MEMADD = 224
-MEMADD = 228
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 228
-MEMADD = 228
-MEMADD = 232
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 232
-MEMADD = 232
-MEMADD = 236
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 236
-MEMADD = 236
-MEMADD = 240
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 240
-MEMADD = 240
-MEMADD = 244
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 244
-MEMADD = 244
-MEMADD = 248
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 248
-MEMADD = 248
-MEMADD = 252
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD = 252
-MEMADD = 252
-Registe rm
-Registe rm
-MEMADD =   0
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =   0
-MEMADD =   0
+MEMADD =  24
+MEMADD =  24
 Imediate IR[7:0]
 ROR
 [  0]=[  0]
@@ -3626,13 +3110,15 @@ ROR
 [ 31]=[ 31]
 [ 32]=[ 32]
 Imediate IR[7:0]
-MEMADD =   4
+MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD =   4
-MEMADD =   4
-Imediate IR[7:0]
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -3667,63 +3153,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
-MEMADD =   8
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =   8
-MEMADD =   8
-Load/Store-offsett/index Rm
-LSL
-Load/Store-offsett/index Rm
-MEMADD =  40
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  40
-MEMADD =  40
-MEMADD =  12
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  12
-MEMADD =  12
-Load/Store-Immediate Rm
-Load/Store-Immediate Rm
-MEMADD =  42
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  42
-MEMADD =  42
-MEMADD =  16
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  16
-MEMADD =  16
-Immediate Rm
-LSL
-Immediate Rm
-LSL
-MEMADD =  20
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  20
 MEMADD =  20
-Immediate Rm
-Immediate Rm
-Immediate Rm
-LSL
-MEMADD =  24
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  24
-MEMADD =  24
-Imediate IR[7:0]
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -3758,7 +3189,24 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
 Imediate IR[7:0]
 ROR
 [  0]=[  0]
@@ -3794,6 +3242,7 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
+Imediate IR[7:0]
 MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
@@ -3803,26 +3252,7 @@ MEMADD =  28
 Branch
 Branch
 Branch
-MEMADD =  20
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  20
 Branch
-MEMADD =  20
-Immediate Rm
-LSL
-Immediate Rm
-LSL
-Immediate Rm
-LSL
-MEMADD =  24
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  24
-MEMADD =  24
-Imediate IR[7:0]
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -3857,8 +3287,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -3893,51 +3323,6 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
-ROR
-[  0]=[  0]
-[  1]=[  1]
-[  2]=[  2]
-[  3]=[  3]
-[  4]=[  4]
-[  5]=[  5]
-[  6]=[  6]
-[  7]=[  7]
-[  8]=[  8]
-[  9]=[  9]
-[ 10]=[ 10]
-[ 11]=[ 11]
-[ 12]=[ 12]
-[ 13]=[ 13]
-[ 14]=[ 14]
-[ 15]=[ 15]
-[ 16]=[ 16]
-[ 17]=[ 17]
-[ 18]=[ 18]
-[ 19]=[ 19]
-[ 20]=[ 20]
-[ 21]=[ 21]
-[ 22]=[ 22]
-[ 23]=[ 23]
-[ 24]=[ 24]
-[ 25]=[ 25]
-[ 26]=[ 26]
-[ 27]=[ 27]
-[ 28]=[ 28]
-[ 29]=[ 29]
-[ 30]=[ 30]
-[ 31]=[ 31]
-[ 32]=[ 32]
-MEMADD =  28
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  28
-MEMADD =  28
-Branch
-Branch
-Branch
-MEMADD =  20
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
@@ -3991,8 +3376,16 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
 Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -4027,7 +3420,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -4062,16 +3456,6 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  28
-MEMADD =  28
-Branch
-Branch
-Branch
-MEMADD =  20
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
@@ -4126,7 +3510,16 @@ ROR
 [ 31]=[ 31]
 [ 32]=[ 32]
 Imediate IR[7:0]
-Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -4161,7 +3554,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -4196,16 +3590,6 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  28
-MEMADD =  28
-Branch
-Branch
-Branch
-MEMADD =  20
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
@@ -4339,7 +3723,76 @@ MEMADD =  28
 Branch
 Branch
 Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
@@ -4393,8 +3846,17 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
 Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -4429,7 +3891,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -4464,19 +3927,9 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD =  28
-MEMADD =  28
-Branch
-Branch
-Branch
-MEMADD =  20
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
 MEMADD =  20
 Branch
 MEMADD =  20
@@ -4527,8 +3980,16 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
 Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -4563,7 +4024,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -4598,7 +4060,24 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
 Imediate IR[7:0]
 ROR
 [  0]=[  0]
@@ -4634,60 +4113,17 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
 MEMADD =  28
 MEMADD =  28
-Branch
 Branch
-MEMADD =  32
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  32
 Branch
-MEMADD =  32
-Load/Store-Immediate Rm
-Load/Store-Immediate Rm
-MEMADD =  43
-Memory Function Active
-Memory Function Complete: 0
-Store a byte
-Storing Least significant byte 28 in address  43
-Mem[Address]: 28
-Memory Function Complete: 0
-Memory Function Active
-Memory Function Complete: 0
-Store a word
-Mem[Address]: 28
-Mem[Address+1]: 00
-Mem[Address+2]: 00
-Mem[Address+3]: 00
-Memory Function Complete: 0
-Memory Function Active
-Memory Function Complete: 0
-Store a word
-Mem[Address]: 28
-Mem[Address+1]: 00
-Mem[Address+2]: 00
-Mem[Address+3]: 00
-Memory Function Complete: 0
-MEMADD =  36
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  36
-MEMADD =  36
 Branch
 Branch
-MEMADD =  44
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  44
-MEMADD =  44
-Registe rm
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -4722,7 +4158,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Registe rm
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -4757,12 +4194,25 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  48
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD =  48
-Registe rm
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -4797,325 +4247,7720 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  48
-Immediate Rm
-LSL
-Immediate Rm
-LSL
-MEMADD =  52
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  52
-MEMADD =  52
-MEMADD =  56
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  56
-MEMADD =  56
-MEMADD =  60
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  60
-MEMADD =  60
-MEMADD =  64
+Imediate IR[7:0]
+MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  64
-MEMADD =  64
-MEMADD =  68
-Memory Function Active
 Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD =  68
-MEMADD =  68
-MEMADD =  72
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD =  72
-MEMADD =  72
-MEMADD =  76
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD =  76
-MEMADD =  76
-MEMADD =  80
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD =  80
-MEMADD =  80
-MEMADD =  84
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD =  84
-MEMADD =  84
-MEMADD =  88
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD =  88
-MEMADD =  88
-MEMADD =  92
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD =  92
-MEMADD =  92
-MEMADD =  96
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD =  96
-MEMADD =  96
-MEMADD = 100
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 100
-MEMADD = 100
-MEMADD = 104
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 104
-MEMADD = 104
-MEMADD = 108
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 108
-MEMADD = 108
-MEMADD = 112
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 112
-MEMADD = 112
-MEMADD = 116
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 116
-MEMADD = 116
-MEMADD = 120
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 120
-MEMADD = 120
-MEMADD = 124
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 124
-MEMADD = 124
-MEMADD = 128
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 128
-MEMADD = 128
-MEMADD = 132
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 132
-MEMADD = 132
-MEMADD = 136
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 136
-MEMADD = 136
-MEMADD = 140
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 140
-MEMADD = 140
-MEMADD = 144
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 144
-MEMADD = 144
-MEMADD = 148
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 148
-MEMADD = 148
-MEMADD = 152
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 152
-MEMADD = 152
-MEMADD = 156
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 156
-MEMADD = 156
-MEMADD = 160
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 160
-MEMADD = 160
-MEMADD = 164
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 164
-MEMADD = 164
-MEMADD = 168
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 168
-MEMADD = 168
-MEMADD = 172
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 172
-MEMADD = 172
-MEMADD = 176
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 176
-MEMADD = 176
-MEMADD = 180
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 180
-MEMADD = 180
-MEMADD = 184
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 184
-MEMADD = 184
-MEMADD = 188
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 188
-MEMADD = 188
-MEMADD = 192
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 192
-MEMADD = 192
-MEMADD = 196
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 196
-MEMADD = 196
-MEMADD = 200
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 200
-MEMADD = 200
-MEMADD = 204
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 204
-MEMADD = 204
-MEMADD = 208
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 208
-MEMADD = 208
-MEMADD = 212
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 212
-MEMADD = 212
-MEMADD = 216
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 216
-MEMADD = 216
-MEMADD = 220
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 220
-MEMADD = 220
-MEMADD = 224
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 224
-MEMADD = 224
-MEMADD = 228
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 228
-MEMADD = 228
-MEMADD = 232
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 232
-MEMADD = 232
-MEMADD = 236
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 236
-MEMADD = 236
-MEMADD = 240
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 240
-MEMADD = 240
-MEMADD = 244
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 244
-MEMADD = 244
-MEMADD = 248
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Imediate IR[7:0]
+MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 248
-MEMADD = 248
-MEMADD = 252
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD = 252
-MEMADD = 252
-Registe rm
-Registe rm
-MEMADD =   0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD =   0
-MEMADD =   0
+MEMADD =  24
+MEMADD =  24
 Imediate IR[7:0]
 ROR
 [  0]=[  0]
@@ -5152,13 +11997,16 @@ ROR
 [ 31]=[ 31]
 [ 32]=[ 32]
 Imediate IR[7:0]
-MEMADD =   4
+MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD =   4
-MEMADD =   4
-Imediate IR[7:0]
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -5193,54 +12041,52 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
-MEMADD =   8
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =   8
-MEMADD =   8
-Load/Store-offsett/index Rm
-LSL
-Load/Store-offsett/index Rm
-MEMADD =  40
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  40
-MEMADD =  40
-MEMADD =  12
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  12
-MEMADD =  12
-Load/Store-Immediate Rm
-Load/Store-Immediate Rm
-MEMADD =  42
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  42
-MEMADD =  42
-MEMADD =  16
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  16
-MEMADD =  16
-Immediate Rm
-LSL
-Immediate Rm
-LSL
 MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
 MEMADD =  20
+Branch
 MEMADD =  20
 Immediate Rm
+LSL
 Immediate Rm
+LSL
 Immediate Rm
 LSL
 MEMADD =  24
@@ -5285,6 +12131,103 @@ ROR
 [ 31]=[ 31]
 [ 32]=[ 32]
 Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  24
+MEMADD =  24
 Imediate IR[7:0]
 ROR
 [  0]=[  0]
@@ -5320,6 +12263,7 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
+Imediate IR[7:0]
 MEMADD =  28
 Memory Function Active
 Memory Function Complete: 0
@@ -5329,7 +12273,77 @@ MEMADD =  28
 Branch
 Branch
 Branch
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 MEMADD =  20
+Branch
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
@@ -5383,8 +12397,16 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
 Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -5419,7 +12441,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -5454,16 +12477,6 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  28
-MEMADD =  28
-Branch
-Branch
-Branch
-MEMADD =  20
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
@@ -5518,7 +12531,16 @@ ROR
 [ 31]=[ 31]
 [ 32]=[ 32]
 Imediate IR[7:0]
-Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -5553,7 +12575,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -5588,16 +12611,6 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  28
-MEMADD =  28
-Branch
-Branch
-Branch
-MEMADD =  20
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
@@ -5652,7 +12665,15 @@ ROR
 [ 31]=[ 31]
 [ 32]=[ 32]
 Imediate IR[7:0]
-Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -5687,7 +12708,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -5722,16 +12744,6 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  28
-MEMADD =  28
-Branch
-Branch
-Branch
-MEMADD =  20
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
@@ -5785,8 +12797,17 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
 Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -5821,7 +12842,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -5856,16 +12878,6 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  28
-MEMADD =  28
-Branch
-Branch
-Branch
-MEMADD =  20
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
@@ -5919,8 +12931,16 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
 Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -5955,7 +12975,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Imediate IR[7:0]
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -5990,16 +13011,6 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  28
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  28
-MEMADD =  28
-Branch
-Branch
-Branch
-MEMADD =  20
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
@@ -6125,7 +13136,15 @@ ROR
 [ 31]=[ 31]
 [ 32]=[ 32]
 MEMADD =  28
-Imediate IR[7:0]
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -6160,60 +13179,61 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  28
-MEMADD =  28
-Branch
-Branch
-MEMADD =  32
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  32
+MEMADD =  20
 Branch
-MEMADD =  32
-Load/Store-Immediate Rm
-Load/Store-Immediate Rm
-MEMADD =  43
-Memory Function Active
-Memory Function Complete: 0
-Store a byte
-Storing Least significant byte 28 in address  43
-Mem[Address]: 28
-Memory Function Complete: 0
-Memory Function Active
-Memory Function Complete: 0
-Store a word
-Mem[Address]: 28
-Mem[Address+1]: 00
-Mem[Address+2]: 00
-Mem[Address+3]: 00
-Memory Function Complete: 0
-Memory Function Active
-Memory Function Complete: 0
-Store a word
-Mem[Address]: 28
-Mem[Address+1]: 00
-Mem[Address+2]: 00
-Mem[Address+3]: 00
-Memory Function Complete: 0
-MEMADD =  36
+ROR
+[  0]=[  0]
+[  1]=[  1]
+[  2]=[  2]
+[  3]=[  3]
+[  4]=[  4]
+[  5]=[  5]
+[  6]=[  6]
+[  7]=[  7]
+[  8]=[  8]
+[  9]=[  9]
+[ 10]=[ 10]
+[ 11]=[ 11]
+[ 12]=[ 12]
+[ 13]=[ 13]
+[ 14]=[ 14]
+[ 15]=[ 15]
+[ 16]=[ 16]
+[ 17]=[ 17]
+[ 18]=[ 18]
+[ 19]=[ 19]
+[ 20]=[ 20]
+[ 21]=[ 21]
+[ 22]=[ 22]
+[ 23]=[ 23]
+[ 24]=[ 24]
+[ 25]=[ 25]
+[ 26]=[ 26]
+[ 27]=[ 27]
+[ 28]=[ 28]
+[ 29]=[ 29]
+[ 30]=[ 30]
+[ 31]=[ 31]
+[ 32]=[ 32]
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD =  36
-MEMADD =  36
-Branch
+MEMADD =  20
 Branch
-MEMADD =  44
+MEMADD =  20
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+Immediate Rm
+LSL
+MEMADD =  24
 Memory Function Active
 Memory Function Complete: 0
 Memory Function Complete: 0
-MEMADD =  44
-MEMADD =  44
-Registe rm
+MEMADD =  24
+MEMADD =  24
+Imediate IR[7:0]
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -6248,7 +13268,16 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-Registe rm
+Imediate IR[7:0]
+MEMADD =  28
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  28
+MEMADD =  28
+Branch
+Branch
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -6283,12 +13312,8 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  48
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  48
-Registe rm
+MEMADD =  20
+Branch
 ROR
 [  0]=[  0]
 [  1]=[  1]
@@ -6323,76 +13348,18 @@ ROR
 [ 30]=[ 30]
 [ 31]=[ 31]
 [ 32]=[ 32]
-MEMADD =  48
+Memory Function Active
+Memory Function Complete: 0
+Memory Function Complete: 0
+MEMADD =  20
+Branch
+MEMADD =  20
 Immediate Rm
 LSL
 Immediate Rm
 LSL
-MEMADD =  52
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  52
-MEMADD =  52
-MEMADD =  56
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  56
-MEMADD =  56
-MEMADD =  60
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  60
-MEMADD =  60
-MEMADD =  64
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  64
-MEMADD =  64
-MEMADD =  68
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  68
-MEMADD =  68
-MEMADD =  72
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  72
-MEMADD =  72
-MEMADD =  76
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  76
-MEMADD =  76
-MEMADD =  80
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  80
-MEMADD =  80
-MEMADD =  84
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  84
-MEMADD =  84
-MEMADD =  88
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  88
-MEMADD =  88
-MEMADD =  92
-Memory Function Active
-Memory Function Complete: 0
-Memory Function Complete: 0
-MEMADD =  92
+Immediate Rm
+LSL
 Dumping ROM...
           0 Memory Content Binary=11100010 Decimal=226,Hex=e2
           1 Memory Content Binary=00000001 Decimal=  1,Hex=01
@@ -6437,10 +13404,10 @@ Dumping ROM...
          40 Memory Content Binary=00001011 Decimal= 11,Hex=0b
          41 Memory Content Binary=00000101 Decimal=  5,Hex=05
          42 Memory Content Binary=00000111 Decimal=  7,Hex=07
-         43 Memory Content Binary=00101000 Decimal= 40,Hex=28
-         44 Memory Content Binary=00000000 Decimal=  0,Hex=00
-         45 Memory Content Binary=00000000 Decimal=  0,Hex=00
-         46 Memory Content Binary=00000000 Decimal=  0,Hex=00
+         43 Memory Content Binary=00000100 Decimal=  4,Hex=04
+         44 Memory Content Binary=11101010 Decimal=234,Hex=ea
+         45 Memory Content Binary=11111111 Decimal=255,Hex=ff
+         46 Memory Content Binary=11111111 Decimal=255,Hex=ff
          47 Memory Content Binary=11111111 Decimal=255,Hex=ff
          48 Memory Content Binary=00000000 Decimal=  0,Hex=00
          49 Memory Content Binary=00000000 Decimal=  0,Hex=00
@@ -6920,5 +13887,7 @@ Memory
         253 Memory Content Binary=00000000 Decimal=  0,Hex=00
         254 Memory Content Binary=00000000 Decimal=  0,Hex=00
 Finished
-MEMADD =  92
+Immediate Rm
+LSL
 MEMADD =   0
+Immediate Rm

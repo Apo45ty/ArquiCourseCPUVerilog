@@ -61,9 +61,9 @@ Register MAR( .IN(Out),
 Register SR( .IN(SRIN),
 			  .Clk(Clk),
 			  .Reset(Reset),
-			  .Load(1),
+			  .Load(IR[20]),
 			  .OUT(SROUT));			  
 
 			  
 endmodule
-//iverilog ARM_ALU.v BarrelShifter.v Buffer32_32.v controlunit2.v  Decoder4x16.v Multiplexer2x1_32b.v Register.v Register2.v RegisterFile.v Register2Buff.v ARM_CU_ALU.v
+//iverilog ARM_ALU.v BarrelShifter.v Buffer32_32.v controlunit6.v  Decoder4x16.v Multiplexer2x1_32b.v Register.v Register2.v RegisterFile.v Register2Buff.v ARM_CU_ALU.v
